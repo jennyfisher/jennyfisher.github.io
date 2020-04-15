@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Jenny A. Fisher
 description: Centre for Atmospheric Chemistry, University of Wollongong
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
