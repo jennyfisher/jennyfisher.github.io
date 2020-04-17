@@ -9,3 +9,5 @@ I now live in the beautiful beachside suburb of **North Wollongong** (80 km sout
 
 ![humboldt](img/moonstone_169.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ![grenoble](img/grenoble-2_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![caltech](img/caltech_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![ucl](img/ucl_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
