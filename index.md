@@ -7,7 +7,7 @@ use-site-title: true
 ![profile-pic](img/jenny-fisher-bnw_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Associate Professor
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
-[University of Wollongong](https://www.uow.edu.au/)
+#### [University of Wollongong](https://www.uow.edu.au/)
 
 Room G19, Building 41, Northfields Avenue  
 Wollongong, NSW 2522, Australia  
