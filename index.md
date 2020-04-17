@@ -20,4 +20,13 @@ My research centres on investigating the sources, chemical evolution, and transp
 ### Teaching Overview
 I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
 
+## News
 
+- Sam Limbrey was awarded a 2019 ACEDD Scholar Award in recognition of his outstanding scholarship in the Bachelor of Science (Honours) - the same week that he submitted his Honours thesis! Congratulations, Sam!
+- Sandra Konigseder arrived from Germany to start her PhD. Sandra will primarily be working with Tim Barrows on tidewater glaciers, using climate model output. A nice opportunity for some interdisciplinary research!
+- Dr Jesse Greenslade has officially completed his PhD. Following an APR internship, he is now a contract employee at the Bureau of Meteorology. Congratulations, Jesse!
+- Dr Bea Bukosa has officially completed her PhD. She is now a postdoc at NIWA in New Zealand. Congratulations Bea!
+- Maria Paula Perez-Peña joins us as a joint PhD student, based primarily in the Kable group at UNSW. Welcome Maria!
+- I am honoured to have received 3rd place in the Australian competition for the APEC Science Prize for Innovation, Research and Education (ASPIRE Prize) nomination.
+- PhD student Bea Bukosa’s paper on shipborne measurements of carbon gases is now published in ACP.
+- New paper on nitrogen chemistry over the remote Pacific Ocean is now available in JGR-Atmospheres.
