@@ -20,7 +20,7 @@ My research centres on investigating the sources, chemical evolution, and transp
 ### Teaching Overview
 I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
 
-## News
+### News
 
 - Sam Limbrey was awarded a 2019 ACEDD Scholar Award in recognition of his outstanding scholarship in the Bachelor of Science (Honours) - the same week that he submitted his Honours thesis! Congratulations, Sam!
 - Sandra Konigseder arrived from Germany to start her PhD. Sandra will primarily be working with [Tim Barrows](https://scholars.uow.edu.au/display/tim_barrows) on tidewater glaciers, using climate model output. A nice opportunity for some interdisciplinary research!
