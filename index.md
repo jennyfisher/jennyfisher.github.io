@@ -6,13 +6,13 @@ use-site-title: true
 
 ![profile-pic](img/jenny-fisher-bnw_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Associate Professor
-[Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
+#### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 [University of Wollongong](https://www.uow.edu.au/)
 
-Room G19, Building 41, Northfields Avenue
-Wollongong, NSW 2522, Australia
-+61 2 4221 5484
-
+Room G19, Building 41, Northfields Avenue  
+Wollongong, NSW 2522, Australia  
+P: +61 2 4221 5484  
+E: jennyf [at] uow.edu.au
 
 ### Research Overview
 My research centres on investigating the sources, chemical evolution, and transport pathways of atmospheric pollution. I use a global chemical transport model combined with observational data sets (ground-based, aircraft, and satellite) to increase our fundamental understanding of the impacts of human activity and natural processes on atmospheric composition in diverse environments. [[CV]](http://www.uow.edu.au/~jennyf/cv.html)
