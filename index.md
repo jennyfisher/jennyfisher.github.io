@@ -23,7 +23,7 @@ I teach earth systems science and introductory programming to undergraduate stud
 ### News
 
 - Sam Limbrey was awarded a 2019 ACEDD Scholar Award in recognition of his outstanding scholarship in the Bachelor of Science (Honours) - the same week that he submitted his Honours thesis! Congratulations, Sam!
-- Sandra Konigseder arrived from Germany to start her PhD. Sandra will primarily be working with [Tim Barrows](https://scholars.uow.edu.au/display/tim_barrows) on tidewater glaciers, using climate model output. A nice opportunity for some interdisciplinary research!
+- Sandra Koenigseder arrived from Germany to start her PhD. Sandra will primarily be working with [Tim Barrows](https://scholars.uow.edu.au/display/tim_barrows) on tidewater glaciers, using climate model output. A nice opportunity for some interdisciplinary research!
 - Dr Jesse Greenslade has officially completed his PhD. Following an APR internship, he is now a contract employee at the Bureau of Meteorology. Congratulations, Jesse!
 - Dr Bea Bukosa has officially completed her PhD. She is now a postdoc at NIWA in New Zealand. Congratulations Bea!
 - Maria Paula Perez-Peña joins us as a joint PhD student, based primarily in the Kable group at UNSW. Welcome Maria!
