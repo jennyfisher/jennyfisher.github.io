@@ -28,8 +28,8 @@ title: People
 **Max Desservettaz**, PhD 2014-2018, now researcher at Cyprus Research Institute<br/>
 **Kate Sneesby**, Honours 2018<br/>
 **Neil Page**, Masters of Research, 2017, now PhD Student at University of Wollongong<br/>
-**Jordan Capnerhurst**, Honours, 1st Class (Env. Sci.), 2016, now at NSW Office of Environment & Heritage<br/>
-**Kaitlyn Lieschke**, Honours, 1st Class (Chemistry) 2015, now Consultant at Ramboll<br/>
+**Jordan Capnerhurst**, Honours 2016, now at NSW Office of Environment & Heritage<br/>
+**Kaitlyn Lieschke**, Honours 2015, now Consultant at Ramboll<br/>
 **Iris Dion**, Research Assistant 2016, now PhD student at Meteo-France<br/>
 **Christopher Roulston**, Research Assistant 2015, now at CSIRO<br/>
 **Matthew Rees**, Summer Scholar 2015-16, now PhD Student at University of Melbourne
