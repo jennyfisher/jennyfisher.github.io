@@ -93,7 +93,7 @@ title: Publications
 
 ## Other
 
-1. **Fisher, J.A.** Travel Tale: Scientists take to the skies in airborne NASA experiment. Connect: Research & Innovation News, p. 12, Nov-Dec 2013 issue (2013). [PDF]
+6. **Fisher, J.A.** Travel Tale: Scientists take to the skies in airborne NASA experiment. Connect: Research & Innovation News, p. 12, Nov-Dec 2013 issue (2013). [PDF]
 
 5. **Fisher, J.A.** Dissertation: Atmospheric Pollution in the Arctic: sources, transport, and chemical processing (2011). [PDF]
 
