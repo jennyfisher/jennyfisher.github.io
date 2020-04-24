@@ -5,7 +5,7 @@ title: People
 
 ## Current Students
 
-**Sandra Konigseder**, PhD 2020-<br/>
+**Sandra Koenigseder**, PhD 2020-<br/>
        Primary supervisor: Tim Barrows
        
 **Lily Sheridan**, MRes 2019-2020<br/>
