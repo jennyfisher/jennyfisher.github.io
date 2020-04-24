@@ -20,6 +20,7 @@ description: Centre for Atmospheric Chemistry, University of Wollongong
 
 # List of links in the navigation bar
 navbar-links:
+  Welcome: "index"
   Teaching:
     - Teaching Portfolio: "https://sites.google.com/view/jfisher-teaching-portfolio/home"
     - Jupyter Notebooks: "https://jennyfisher.github.io/computing-modelling-earthsci/"
