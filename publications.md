@@ -60,8 +60,8 @@ title: Publications
 
 15. **Fisher, J.A.**, D.J. Jacob, A.L. Soerensen, H.M. Amos, E.S. Corbitt, D.G. Streets, Q. Wang, R.M. Yantosca, and E.M. Sunderland. Factors driving mercury variability in the Arctic atmosphere and ocean over the past thirty years. Global Biogeochemical Cycles, 27: 1226-1235, doi:10.1002/2013GB004689, 2013. [online - subscription required]
 
-14. **Fisher, J.A.**, D.J. Jacob, A.L. Soerensen, H.M. Amos, A. Steffen, and E.M. Sunderland. Riverine source of Arctic Ocean mercury inferred from atmospheric observations. Nature Geoscience, 5: 499 (2012). [online - subscription required]
-➤ Highlighted in: Sonke and Heimbürger, Environmental Science: Mercury in flux. Nature Geoscience, 5: 447 (2012). [News and Views]. 
+14. **Fisher, J.A.**, D.J. Jacob, A.L. Soerensen, H.M. Amos, A. Steffen, and E.M. Sunderland. Riverine source of Arctic Ocean mercury inferred from atmospheric observations. Nature Geoscience, 5: 499 (2012). [online - subscription required]</br>
+*Highlighted in: Sonke and Heimbürger, Environmental Science: Mercury in flux. Nature Geoscience, 5: 447 (2012). [News and Views].*
 
 13. Tai, A.P.K., L.J. Mickley, D.J. Jacob, E.M. Leibensperger, L. Zhang, **J.A. Fisher**, and H.O.T. Pye. Meteorological modes of variability for fine particulate matter (PM2.5) air quality in the United States: implications for PM2.5 sensitivity to climate change. Atmospheric Chemistry and Physics, 12: 3131-3145 (2012). [PDF]
 
@@ -104,3 +104,4 @@ title: Publications
 2. Baker, M.A., **J. Fisher**, and L. Rowan. Earth Sciences in the FY 2007 Budget. In AAAS Report XXXI: Research and Development FY 2007 (2006).
 
 1. **Fisher, J.** and B. Fisher. The Use of KidSat Images in the Further Pursuit of the Frankincense Roads to Ubar. IEEE Transactions on Geoscience and Remote Sensing, 37 (4): 1841-1847 (1999).
+{: reversed="reversed"}
