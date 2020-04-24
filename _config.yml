@@ -23,6 +23,7 @@ navbar-links:
   Teaching:
     - Teaching Portfolio: "https://sites.google.com/view/jfisher-teaching-portfolio/home"
     - Jupyter Notebooks: "https://jennyfisher.github.io/computing-modelling-earthsci/"
+  People: "people"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
