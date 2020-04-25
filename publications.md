@@ -9,7 +9,7 @@ title: Publications
 
 ## Referreed
 
-1. Alexander,  B.,  T. Sherwen,  C.D. Holmes, **J.A. Fisher**,  Q. Chen,  M.J. Evans,  and  P. Kasibhatla: Global  inorganic  nitrate  production  mechanisms:  Comparison  of  a  global  model  with  nitrate  isotope observations, Atmos. Chem. Phys., 20, 3859-3877, doi: 10.5194/acp-20-3859-2020 (2020). [read]
+1. Alexander,  B.,  T. Sherwen,  C.D. Holmes, **J.A. Fisher**,  Q. Chen,  M.J. Evans,  and  P. Kasibhatla: Global  inorganic  nitrate  production  mechanisms:  Comparison  of  a  global  model  with  nitrate  isotope observations, Atmos. Chem. Phys., 20, 3859-3877, doi: 10.5194/acp-20-3859-2020 (2020). [[read](http://dx.doi.org/10.5194/acp-20-3859-2020)]
 
 38.	Bukosa, B., N.M. Deutscher, **J.A. Fisher**, D. Kubistin, C. Paton-Walsh, and D.W.T. Griffith. Simultaneous shipborne measurements of CO2, CH4 and CO and their application to improving greenhouse gas flux estimates in Australia, Atmospheric Chemistry and Physics, 19,  7055-7072,  doi:10.5194/acp-19-7055-2019 (2019). [read]
 
