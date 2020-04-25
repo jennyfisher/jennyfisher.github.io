@@ -112,5 +112,5 @@ title: Publications
 
 2. Baker, M.A., **J. Fisher**, and L. Rowan. Earth Sciences in the FY 2007 Budget. In AAAS Report XXXI: Research and Development FY 2007 (2006).
 
-1. **Fisher, J.** and B. Fisher. The Use of KidSat Images in the Further Pursuit of the Frankincense Roads to Ubar. IEEE Transactions on Geoscience and Remote Sensing, 37 (4): 1841-1847 (1999).
+1. **Fisher, J.** and B. Fisher. The Use of KidSat Images in the Further Pursuit of the Frankincense Roads to Ubar. IEEE Transactions on Geoscience and Remote Sensing, 37 (4): 1841-1847 (1999). [[read](http://dx.doi.org/10.1109/36.774697)]
 {: reversed="reversed"}
