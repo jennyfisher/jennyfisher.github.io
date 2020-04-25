@@ -95,11 +95,11 @@ title: Publications
 
 1. **Fisher, J.A.** Travel Tale: Scientists take to the skies in airborne NASA experiment. Connect: Research & Innovation News, p. 12, Nov-Dec 2013 issue (2013). [[PDF](pdfs/RAID_Newsletter_JAF.pdf)]
 
-5. **Fisher, J.A.** Dissertation: Atmospheric Pollution in the Arctic: sources, transport, and chemical processing (2011). [PDF]
+5. **Fisher, J.A.** Dissertation: Atmospheric Pollution in the Arctic: sources, transport, and chemical processing (2011). [[PDF](pdfs/Fisher_Dissertation.pdf)]
 
-4. **Fisher, J.A.** Carbon Monoxide in the Arctic Atmosphere. POLARCAT - A Unique Snapshot of the Arctic Atmosphere, 18-19 (2010). [PDF]
+4. **Fisher, J.A.** Carbon Monoxide in the Arctic Atmosphere. POLARCAT - A Unique Snapshot of the Arctic Atmosphere, 18-19 (2010). [[PDF](pdfs/POLARCAT_Article.pdf)]
 
-3. **Fisher, J.A.** Analyzing pollution in the Arctic atmosphere. Earth & Planetary Times, 1 (1): 1, 3 (2010). [PDF]
+3. **Fisher, J.A.** Analyzing pollution in the Arctic atmosphere. Earth & Planetary Times, 1 (1): 1, 3 (2010). [[PDF](pdfs/EPS_Article.pdf)]
 
 2. Baker, M.A., **J. Fisher**, and L. Rowan. Earth Sciences in the FY 2007 Budget. In AAAS Report XXXI: Research and Development FY 2007 (2006).
 
