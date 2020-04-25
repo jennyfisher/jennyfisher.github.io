@@ -74,7 +74,7 @@ title: Publications
 9. **Fisher, J.A.**, D.J. Jacob, Q. Wang, R. Bahreini, C.C. Carouge, M.J. Cubison, J.E. Dibb, T. Diehl, J.L. Jimenez, E.M. Leibensperger, Z. Lu, M.B.J. Meinders, H.O.T. Pye, P.K. Quinn, S. Sharma, D.G. Streets, A. van Donkelaar, and R.M. Yantosca. Sources, distribution, and acidity of sulfate-ammonium aerosol in the Arctic in winter-spring. Atmospheric Environment, 45: 7301-7318 (2011). [PDF]
 
 8. Mao, J., D.J. Jacob, M.J. Evans, J.R. Olson, X. Ren, W.H. Brune, J.M. St. Clair, J.D. Crounse, K.M. Spencer, M.R. Beaver, P.O. Wennberg, M.J. Cubison, J.L. Jimenez, A. Fried, P. Weibring, J.G. Wallega, S.R. Hall, A.J. Weinheimer, R.C. Cohen, G. Cehn, J.H. Crawford, C. McNaughton, A.D. Clarke, L. Jaegle, **J.A. Fisher**, R.M. Yantosca, P. Le Sager, C. Carouge. Chemistry of hydrogen oxide radicals (HOx) in the Arctic troposphere in spring. Atmospheric Chemistry and Physics, 10: 5823-5838 (2010). [PDF]<br/>
-*➤ Highlighted in: Lelielveld, Atmospheric chemistry: A missing sink for radicals. Nature, 466: 925 (2010). [News and Views]. *
+➤ *Highlighted in: Lelielveld, Atmospheric chemistry: A missing sink for radicals. Nature, 466: 925 (2010). [News and Views]. *
 
 7. Jacob, D.J., J.H. Crawford, H. Maring, A.C. Clarke, J.E. Dibb, L.K. Emmons, R.A. Ferrare, C.A. Hostetler, P.B. Russell, H.B. Singh, A.M. Thompson, G.E. Shaw, E. McCauley, J.R. Pederson, and **J.A. Fisher**. The ARCTAS aircraft mission: design and execution.Atmospheric Chemistry and Physics, 10: 5191-5212 (2010). [PDF]
 
