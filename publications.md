@@ -93,6 +93,15 @@ title: Publications
 
 ## Other
 
+1. **Fisher,  J.** and  Wilson,  S. [Explainer:  hydrofluorocarbons  saved  the  ozone  layer,  so  why  are  we  banning them?](https://theconversation.com/explainer-hydrofluorocarbons-saved-the-ozone-layer-so-why-are-we-banning-them-8667245) The  Conversation,  2  November  2017.
+
+1. **Fisher,  J.**,  Howard,  D.,  Edwards,  G.C.,  and  Nelson,  P. [Mercury from  the  northern  hemisphere  is  ending up   in   Australia](https://theconversation.com/mercury-from-the-northern-hemisphere-is-ending-up-in-australia-8371046). The   Conversation, 1   October   2017.
+
+1. McGregor,  H.  and **Fisher,  J.** [Please,  Donald  Trump,  don’t  send  climate  science  back  to  the  pre-satellite era](https://theconversation.com/please-donald-trump-dont-send-climate-science-back-to-the-pre-satellite-era-69358
+). The Conversation, 25 Nov 2016.
+
+1. Downes, S.    and **Fisher, J.** Positive    Interactions    with Politicians: Report  from  Science  Meets  Parliament  2016. Bulletin  of  the  Australian  Meteorological  and Oceanographic Society, 29: 20-21, 2016.
+
 1. **Fisher, J.A.** Travel Tale: Scientists take to the skies in airborne NASA experiment. Connect: Research & Innovation News, p. 12, Nov-Dec 2013 issue (2013). [[PDF](pdfs/RAID_Newsletter_JAF.pdf)]
 
 5. **Fisher, J.A.** Dissertation: Atmospheric Pollution in the Arctic: sources, transport, and chemical processing (2011). [[PDF](pdfs/Fisher_Dissertation.pdf)]
