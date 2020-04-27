@@ -27,6 +27,7 @@ title: People
 **Beata Bukosa**, PhD 2015-2019, now postdoctoral fellow at NIWA, New Zealand<br/>
 **Max Desservettaz**, PhD 2014-2018, now researcher at Cyprus Research Institute<br/>
 **Kate Sneesby**, Honours 2018<br/>
+**Emma Nguyen**, Summer Research Fellow, 2018, now Honours Student at University of Wollongong<br/>
 **Neil Page**, Masters of Research, 2017, now PhD Student at University of Wollongong<br/>
 **Jordan Capnerhurst**, Honours 2016, now at NSW Office of Environment & Heritage<br/>
 **Kaitlyn Lieschke**, Honours 2015, now Consultant at Ramboll<br/>
