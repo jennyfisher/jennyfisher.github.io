@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 ---
 
-## [Conference Presentations](#conference-presentations)   |   [Seminars & Invited Talks](#seminars-and-invited-talks) 
+### [Conference Presentations](#conference-presentations)   |   [Seminars & Invited Talks](#seminars-and-invited-talks) 
 
 ![presentation-pic](img/presenting.jpeg){:style="float: right;margin-left: 7px;:class="img-responsive"}
 
