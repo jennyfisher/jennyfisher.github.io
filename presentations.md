@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 ---
 
-[Conference Presentations](#conference-presentations) | [Seminars & Invited Talks](#seminars-and-invited-talks)
+<p align="center"> [Conference Presentations](#conference-presentations) | [Seminars & Invited Talks](#seminars-and-invited-talks) </p>
 
 ## Conference Presentations
 
