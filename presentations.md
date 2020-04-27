@@ -3,9 +3,11 @@ layout: page
 title: Presentations
 ---
 
-![presentation-pic](img/presenting.jpeg){:style="float: right;margin-left: 7px;:class="img-responsive"}
+[Conference Presentations](#conference-presentations) | [Seminars & Invited Talks](#seminars-and-invited-talks)
 
 ## Conference Presentations
+
+![presentation-pic](img/presenting.jpeg){:style="float: right;margin-left: 7px;:class="img-responsive"}
 
 1. Atmospheric mercury in Australia: recent findings and future research needs (talk). Mercury Australia Symposium, Nov 2019.
 
