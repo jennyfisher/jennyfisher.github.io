@@ -25,6 +25,7 @@ navbar-links:
     - Research: "research"
     - Media: "media"
     - Publications: "publications"
+    - Presentations: "presentations"
   Teaching:
     - Portfolio: "https://sites.google.com/view/jfisher-teaching-portfolio/home"
     - Jupyter Notebooks: "https://jennyfisher.github.io/computing-modelling-earthsci/"
