@@ -14,5 +14,3 @@ I am always happy to provide expertise on atmospheric chemistry, air pollution, 
 **Why are atmospheric models valuable?** The video below shows a talk I gave at the inaugural UOW Budding Ideas research showcase in 2014.
 
 {% include youtubePlayer.html id=page.youtubeId %}
-
-## TEST
