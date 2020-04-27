@@ -74,6 +74,7 @@ title: Presentations
 2. An analysis of pollution transport events and pollution sources in the Arctic during ARCTAS using aircraft, satellite, and model CO (poster). ARCTAS Science Team Meeting, Jan 2009.
 
 1. A Survey of Martian Dust Devil Activity Using Mars Global Surveyor Mars Orbiter Camera Images (poster). American Geophysical Union 2002 Fall Meeting, Dec 2002.
+{: reversed="reversed"}
 
 ## Seminars and Invited Talks
 
@@ -112,3 +113,4 @@ title: Presentations
 2. Clearing the Haze: constraining the sources and impacts of Arctic air pollution. Harvard University EPS Graduate Student / Post-doc Seminar Series, Oct 2010.
 
 1. Tracking pollution in the Arctic atmosphere. Harvard University Earth and Planetary Sciences Day, Apr 2009.
+{: reversed="reversed"}
