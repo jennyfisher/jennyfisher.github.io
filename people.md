@@ -25,7 +25,7 @@ title: People
 **Sam Limbrey**, Honours 2019-2020, now research assistant at University of Wollongong<br/>
 **Jesse Greenslade**, PhD 2015-2019, now researcher at Bureau of Meteorology<br/>
 **Beata Bukosa**, PhD 2015-2019, now postdoctoral fellow at NIWA, New Zealand<br/>
-**Max Desservettaz**, PhD 2014-2018, now Technical Research Specialist at Climate and Atmosphere Research Center, Cyprus Research Institute<br/>
+**[Max Desservettaz](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/1049-maximilien-desservettaz.html)**, PhD 2014-2018, now Technical Research Specialist at Climate and Atmosphere Research Center, Cyprus Research Institute<br/>
 **Kate Sneesby**, Honours 2018<br/>
 **Emma Nguyen**, Summer Research Fellow, 2018, now Honours Student at University of Wollongong<br/>
 **Neil Page**, Masters of Research, 2017, now PhD Student at University of Wollongong<br/>
