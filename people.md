@@ -31,6 +31,6 @@ title: People
 **Neil Page**, Masters of Research, 2017, now PhD Student at University of Wollongong<br/>
 **Jordan Capnerhurst**, Honours 2016, now at NSW Office of Environment & Heritage<br/>
 **[Kaitlyn Lieschke](https://www.linkedin.com/in/kaitlyn-lieschke/)**, Honours 2015, now Senior Scientist (Atmospheric Research) at NSW Department of Planning, Industry and Environment  <br/>
-**Iris Dion**, Research Assistant 2016, now PhD student at Meteo-France<br/>
+**Iris Dion**, Research Assistant 2016, now Postdoctoral Fellow at Aerology Laboratory in Toulouse, France<br/>
 **Christopher Roulston**, Research Assistant 2015, now at CSIRO<br/>
 **[Matthew Rees](matthewreesearch.com)**, Summer Scholar 2015-16, now PhD Student at University of Melbourne
