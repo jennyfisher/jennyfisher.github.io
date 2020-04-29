@@ -33,4 +33,4 @@ title: People
 **[Kaitlyn Lieschke](https://www.linkedin.com/in/kaitlyn-lieschke/)**, Honours 2015, now Senior Scientist (Atmospheric Research) at NSW Department of Planning, Industry and Environment  <br/>
 **Iris Dion**, Research Assistant 2016, now PhD student at Meteo-France<br/>
 **Christopher Roulston**, Research Assistant 2015, now at CSIRO<br/>
-**Matthew Rees**, Summer Scholar 2015-16, now PhD Student at University of Melbourne
+**[Matthew Rees](matthewreesearch.com)**, Summer Scholar 2015-16, now PhD Student at University of Melbourne
