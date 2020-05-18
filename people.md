@@ -26,7 +26,7 @@ title: People
 **Jesse Greenslade**, PhD 2015-2019, now researcher at Bureau of Meteorology<br/>
 **Beata Bukosa**, PhD 2015-2019, now postdoctoral fellow at NIWA, New Zealand<br/>
 **[Max Desservettaz](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/1049-maximilien-desservettaz.html)**, PhD 2014-2018, now Technical Research Specialist at Climate and Atmosphere Research Center, Cyprus Research Institute<br/>
-**Kate Sneesby**, Honours 2018<br/>
+**Kate Sneesby**, Honours 2018, now English teacher in South Korea<br/>
 **Emma Nguyen**, Summer Research Fellow, 2018, now Honours Student at University of Wollongong<br/>
 **Neil Page**, Masters of Research, 2017, now PhD Student at University of Wollongong<br/>
 **[Jordan Capnerhurst](https://www.linkedin.com/in/jordan-capnerhurst-409b53b9)**, Honours 2016, now Air Quality Monitoring Officer at NSW Department of Planning, Industry and Environment<br/>
