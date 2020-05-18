@@ -14,7 +14,7 @@ P: +61 2 4221 5484
 E: jennyf [at] uow.edu.au
 
 ### Research Overview
-My research centres on investigating the sources, chemical evolution, and transport pathways of atmospheric pollution. I use a global chemical transport model combined with observational data sets (ground-based, aircraft, and satellite) to increase our fundamental understanding of the impacts of human activity and natural processes on atmospheric composition in diverse environments. [[CV]](pdfs/CV_web.pdf)
+My research centres on investigating the sources, chemical evolution, and transport pathways of atmospheric pollution. I use a global chemical transport model combined with observational data sets (ground-based, aircraft, and satellite) to increase our fundamental understanding of the impacts of human activity and natural processes on atmospheric composition in diverse environments. [[CV]](pdfs/CV_web.pdf) [[ORCiD]](http://orcid.org/0000-0002-2921-1691) [[UOW Scholars]](https://scholars.uow.edu.au/display/jenny_fisher)
 
 ### Teaching Overview
 I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
