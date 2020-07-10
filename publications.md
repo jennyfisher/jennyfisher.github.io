@@ -9,6 +9,8 @@ title: Publications
 
 1. Lutsch, E., K. Strong, D.B.A. Jones, I. Ortega, J.W. Hannigan, E. Dammers, M.W. Shephard, E. Morris, K. Murphy, M.J. Evans, M. Parrington, S. Whitburn, M. Van Damme, L. Clarisse, P.-F. Coheur, C. Clerbaux, B. Croft, R.V. Martin, J.R. Pierce, **J.A. Fisher**. Unprecedented ammonia concentrations detected in the high Arctic from the 2017 Canadian wildfires. Journal of Geophysical Research-Atmospheres, in review (2019).
 
+2. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, in review (2020).
+
 ## Referreed
 
 1. Alexander,  B.,  T. Sherwen,  C.D. Holmes, **J.A. Fisher**,  Q. Chen,  M.J. Evans,  and  P. Kasibhatla: Global  inorganic  nitrate  production  mechanisms:  Comparison  of  a  global  model  with  nitrate  isotope observations, Atmos. Chem. Phys., 20, 3859-3877, doi: 10.5194/acp-20-3859-2020 (2020). [[read](http://dx.doi.org/10.5194/acp-20-3859-2020)]
