@@ -8,6 +8,10 @@ use-site-title: true
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
 
+### Associate Dean Equity, Diversity and Inclusion
+#### [Faculty of Science, Medicine and Health](https://www.uow.edu.au/science-medicine-health/)<br />
+#### [University of Wollongong](https://www.uow.edu.au/)
+
 Room G19, Building 41, Northfields Avenue  
 Wollongong, NSW 2522, Australia  
 P: +61 2 4221 5484  
@@ -21,6 +25,9 @@ I teach earth systems science and introductory programming to undergraduate stud
 
 ### News
 
+- I am excited to have accepted a new (part-time) position as the Associate Dean Equity, Diversity and Inclusion in the UOW Faculty of Science, Medicine and Health!
+- Daniel Saeed joins us as a new Honours student, working jointly with ANSTO. Welcome Daniel!
+- I presented our work using unique datasets combined with atmospheric models to understand the chemistry and composition of the Southern Hemisphere atmosphere for the NOAA Chemical Sciences Laboratory seminar series.
 - Sam Limbrey was awarded a 2019 ACEDD Scholar Award in recognition of his outstanding scholarship in the Bachelor of Science (Honours) - the same week that he submitted his Honours thesis! Congratulations, Sam!
 - Sandra Koenigseder arrived from Germany to start her PhD. Sandra will primarily be working with [Tim Barrows](https://scholars.uow.edu.au/display/tim_barrows) on tidewater glaciers, using climate model output. A nice opportunity for some interdisciplinary research!
 - Dr Jesse Greenslade has officially completed his PhD. Following an APR internship, he is now a contract employee at the Bureau of Meteorology. Congratulations, Jesse!
