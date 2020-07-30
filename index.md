@@ -8,7 +8,7 @@ use-site-title: true
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
 
-### Associate Dean Equity, Diversity and Inclusion
+### Associate Dean (Equity, Diversity and Inclusion)
 #### [Faculty of Science, Medicine and Health](https://www.uow.edu.au/science-medicine-health/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
 
