@@ -7,13 +7,19 @@ title: Publications
 
 ## In Review
 
-1. Lutsch, E., K. Strong, D.B.A. Jones, I. Ortega, J.W. Hannigan, E. Dammers, M.W. Shephard, E. Morris, K. Murphy, M.J. Evans, M. Parrington, S. Whitburn, M. Van Damme, L. Clarisse, P.-F. Coheur, C. Clerbaux, B. Croft, R.V. Martin, J.R. Pierce, **J.A. Fisher**. Unprecedented ammonia concentrations detected in the high Arctic from the 2017 Canadian wildfires. Journal of Geophysical Research-Atmospheres, in review (2019).
-
-2. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, in review (2020).
+None at present.
 
 ## Referreed
 
+1. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, *accepted October 2020*, (2020).
+
+1. Lutsch, E., Strong, K., Jones, D. B. A., Blumenstock, T., Conway, S., Fisher, J. A., Hannigan, J. W., Hase, F., Kasai, Y., Mahieu, E., Makarova, M., Morino, I., Nagahama, T., Notholt, J., Ortega, I., Palm, M., Poberovskii, A. V., Sussmann, R., and Warneke, T.: Detection and Attribution of Wildfire Pollution in the Arctic and Northern Mid-latitudes using a Network of FTIR Spectrometers and GEOS-Chem, Atmospheric Chemistry and Physics, 20, 12813–12851, doi: 10.5194/acp-20-12813-2020 (2020). [[read](https://acp.copernicus.org/articles/20/12813/2020/)]
+
 1. Alexander,  B.,  T. Sherwen,  C.D. Holmes, **J.A. Fisher**,  Q. Chen,  M.J. Evans,  and  P. Kasibhatla: Global  inorganic  nitrate  production  mechanisms:  Comparison  of  a  global  model  with  nitrate  isotope observations, Atmos. Chem. Phys., 20, 3859-3877, doi: 10.5194/acp-20-3859-2020 (2020). [[read](http://dx.doi.org/10.5194/acp-20-3859-2020)]
+
+4.	Lieschke, K.J., J.A. Fisher, C. Paton-Walsh, N.B. Jones, J.W. Greenslade, S. Burden, D.W.T. Griffith. Decreasing trend in formaldehyde detected from 20-year record at Wollongong, Southeast Australia. Geophysical Research Letters, 46, 8464– 8473, doi: 10.1029/2019GL083757 (2019). [[read](https://onlinelibrary.wiley.com/doi/10.1029/2019GL083757)]
+
+1. Lutsch, E., K. Strong, D.B.A. Jones, I. Ortega, J.W. Hannigan, E. Dammers, M.W. Shephard, E. Morris, K. Murphy, M.J. Evans, M. Parrington, S. Whitburn, M. Van Damme, L. Clarisse, P.-F. Coheur, C. Clerbaux, B. Croft, R.V. Martin, J.R. Pierce, **J.A. Fisher**. Unprecedented ammonia concentrations detected in the high Arctic from the 2017 Canadian wildfires. Journal of Geophysical Research-Atmospheres, 124, 8178–8202, doi: 10.1029/2019JD030419 (2019). [[read](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030419)]
 
 38.	Bukosa, B., N.M. Deutscher, **J.A. Fisher**, D. Kubistin, C. Paton-Walsh, and D.W.T. Griffith. Simultaneous shipborne measurements of CO2, CH4 and CO and their application to improving greenhouse gas flux estimates in Australia, Atmospheric Chemistry and Physics, 19,  7055-7072,  doi: 10.5194/acp-19-7055-2019 (2019). [[read](http://dx.doi.org/10.5194/acp-19-7055-2019)]
 
