@@ -7,7 +7,7 @@ title: Publications
 
 ## In Review
 
-None at present.
+1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, Journal of the American Statistical Association. [[read preprint](https://arxiv.org/pdf/2102.04004.pdf)]
 
 ## Referreed
 
