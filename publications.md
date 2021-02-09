@@ -105,7 +105,9 @@ title: Publications
 
 ## Other
 
-1. **Fisher,  J.** and  Nelson,  P. [Australia’s gold industry stamped out mercury pollution – now it’s coal’s turn](https://theconversation.com/australias-gold-industry-stamped-out-mercury-pollution-now-its-coals-turn-151202) The  Conversation,  9  February  2021.
+1. **Fisher,  J.** and  Nelson,  P. [Australia’s gold industry stamped out mercury pollution – now it’s coal’s turn](https://theconversation.com/australias-gold-industry-stamped-out-mercury-pollution-now-its-coals-turn-151202). The  Conversation,  9  February  2021.
+
+1. **Fisher, J.** and Emmerson, K. [Common products, like perfume, paint and printer ink, are polluting the atmosphere](https://theconversation.com/common-products-like-perfume-paint-and-printer-ink-are-polluting-the-atmosphere-91914). The Conversation, 16 February 2018.
 
 1. **Fisher,  J.** and  Wilson,  S. [Explainer:  hydrofluorocarbons  saved  the  ozone  layer,  so  why  are  we  banning them?](https://theconversation.com/explainer-hydrofluorocarbons-saved-the-ozone-layer-so-why-are-we-banning-them-8667245) The  Conversation,  2  November  2017.
 
