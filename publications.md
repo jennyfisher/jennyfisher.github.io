@@ -11,7 +11,8 @@ title: Publications
 
 ## Referreed
 
-1. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, 8:1, doi: 10.1525/elementa.2020.070 (2020). [[read](https://doi.org/10.1525/elementa.2020.070)]
+1. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, 8:1, doi: 10.1525/elementa.2020.070 (2020). [[read](https://doi.org/10.1525/elementa.2020.070)]<br>
+➤ *See also: Fisher and Nelson, Australia’s gold industry stamped out mercury pollution – now it’s coal’s turn. The Conversation (2021). [[read](https://doi.org/10.1038/466925a)].*
 
 1. Lutsch, E., Strong, K., Jones, D. B. A., Blumenstock, T., Conway, S., **Fisher, J. A.**, Hannigan, J. W., Hase, F., Kasai, Y., Mahieu, E., Makarova, M., Morino, I., Nagahama, T., Notholt, J., Ortega, I., Palm, M., Poberovskii, A. V., Sussmann, R., and Warneke, T.: Detection and Attribution of Wildfire Pollution in the Arctic and Northern Mid-latitudes using a Network of FTIR Spectrometers and GEOS-Chem, Atmospheric Chemistry and Physics, 20, 12813–12851, doi: 10.5194/acp-20-12813-2020 (2020). [[read](https://acp.copernicus.org/articles/20/12813/2020/)]
 
@@ -33,7 +34,8 @@ title: Publications
 
 33. **Fisher, J.A.**, L.T. Murray, D.B.A. Jones, and N.M. Deutscher. Improved method for linear carbon monoxide simulation and source attribution in atmospheric chemistry models illustrated using GEOS-Chem v9. Geoscientific Model Development, 10, 4219-4144, doi: 10.5194/gmd-10-4129-2017 (2017). [[read](http://dx.doi.org/10.5194/gmd-10-4129-2017)]
 
-32. Howard, D., P.F. Nelson, G.C. Edwards, A.L. Morrison, **J.A. Fisher**, J. Ward, J. Harnwell, M. van der Schoot, B. Atkinson, S.D. Chambers, A.D. Griffiths, S. Werczynski, and A.G. Williams. Atmospheric mercury in the southern hemisphere tropics: seasonal and diurnal variations and influence of inter- hemispheric transport. Atmospheric Chemistry and Physics, 17, 11623-11636. doi: 10.5194/acp-17-11623-2017 (2017). [[read](http://dx.doi.org/10.5194/acp-17-11623-2017)]
+32. Howard, D., P.F. Nelson, G.C. Edwards, A.L. Morrison, **J.A. Fisher**, J. Ward, J. Harnwell, M. van der Schoot, B. Atkinson, S.D. Chambers, A.D. Griffiths, S. Werczynski, and A.G. Williams. Atmospheric mercury in the southern hemisphere tropics: seasonal and diurnal variations and influence of inter-hemispheric transport. Atmospheric Chemistry and Physics, 17, 11623-11636. doi: 10.5194/acp-17-11623-2017 (2017). [[read](http://dx.doi.org/10.5194/acp-17-11623-2017)]<br>
+➤ *See also: Fisher, Howard, Edwards and Nelson, Mercury from the northern hemisphere is ending up in Australia. The Conversation (2017). [[read](https://theconversation.com/mercury-from-the-northern-hemisphere-is-ending-up-in-australia-83710)].*
 
 31. Greenslade, J.W., Alexander, S.P., Schofield, R., **Fisher, J.A.**, and A.K. Klekociuk. Stratospheric ozone intrusion events and their impacts on tropospheric ozone. Atmospheric Chemistry and Physics, 17, 10269-10290, doi: 10.5194/acp-17-10269-2017 (2017). [[read](http://dx.doi.org/10.5194/acp-17-10269-2017)]
 
@@ -102,6 +104,8 @@ title: Publications
 {: reversed="reversed"}
 
 ## Other
+
+1. **Fisher,  J.** and  Nelson,  P. [Australia’s gold industry stamped out mercury pollution – now it’s coal’s turn](https://theconversation.com/australias-gold-industry-stamped-out-mercury-pollution-now-its-coals-turn-151202) The  Conversation,  9  February  2021.
 
 1. **Fisher,  J.** and  Wilson,  S. [Explainer:  hydrofluorocarbons  saved  the  ozone  layer,  so  why  are  we  banning them?](https://theconversation.com/explainer-hydrofluorocarbons-saved-the-ozone-layer-so-why-are-we-banning-them-8667245) The  Conversation,  2  November  2017.
 
