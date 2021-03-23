@@ -25,14 +25,7 @@ I teach earth systems science and introductory programming to undergraduate stud
 
 ### News
 
+- I presented a research plenary on "Sustainable Planet" for the Unviversity Global Partnership Network (UGPN) 2021 virtual conference.
+- Stephen Macfarlane and James Portwin joined us as new Honours students. Stephen is working on mercury emissions in Australia and James is working on radonic storms in the Souther Ocean (jointly with ANSTO).
+- Our review of [Atmospheric mercury in Australia: Recent findings and future research needs](https://doi.org/10.1525/elementa.2020.070) was published in a special forum of *Elementa* on [Mercury in the Southern Hemisphere and Tropics](https://collections.elementascience.org/mercury-in-the-southern-hemisphere-and-tropics). We also published a related piece in [The Conversation](https://theconversation.com/australias-gold-industry-stamped-out-mercury-pollution-now-its-coals-turn-151202).
 - I am excited to have accepted a new (part-time) position as the Associate Dean Equity, Diversity and Inclusion in the UOW Faculty of Science, Medicine and Health!
-- Daniel Saeed joins us as a new Honours student, working jointly with ANSTO. Welcome Daniel!
-- I presented our work using unique datasets combined with atmospheric models to understand the chemistry and composition of the Southern Hemisphere atmosphere for the NOAA Chemical Sciences Laboratory seminar series.
-- Sam Limbrey was awarded a 2019 ACEDD Scholar Award in recognition of his outstanding scholarship in the Bachelor of Science (Honours) - the same week that he submitted his Honours thesis! Congratulations, Sam!
-- Sandra Koenigseder arrived from Germany to start her PhD. Sandra will primarily be working with [Tim Barrows](https://scholars.uow.edu.au/display/tim_barrows) on tidewater glaciers, using climate model output. A nice opportunity for some interdisciplinary research!
-- Dr Jesse Greenslade has officially completed his PhD. Following an APR internship, he is now a contract employee at the Bureau of Meteorology. Congratulations, Jesse!
-- Dr Bea Bukosa has officially completed her PhD. She is now a postdoc at NIWA in New Zealand. Congratulations Bea!
-- Maria Paula Perez-Peña joins us as a joint PhD student, based primarily in the Kable group at UNSW. Welcome Maria!
-- I am honoured to have received [3rd place in the Australian competition](https://www.science.org.au/news-and-events/news-and-media-releases/australian-scientist-running-apec-science-prize) for the APEC Science Prize for Innovation, Research and Education (ASPIRE Prize) nomination.
-- PhD student Bea Bukosa’s paper on shipborne measurements of carbon gases is [now published in ACP](https://www.atmos-chem-phys.net/19/7055/2019/).
-- New paper on nitrogen chemistry over the remote Pacific Ocean is [now available in JGR-Atmospheres](http://rdcu.be/ba3ZR).
