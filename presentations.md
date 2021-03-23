@@ -86,6 +86,8 @@ title: Presentations
 
 ## Seminars and Invited Talks
 
+1. Sustainable Planet. Research Plenary, University Global Partnerships Network (UGPN) Virtual Conference, Mar 2021.
+
 1.	Dispatches from Down Under: How Australian observations are teaching us about the Southern Hemisphere atmosphere. Seminar, NOAA Chemical Sciences Laboratory, Boulder, Colorado, USA, Jul 2020.
 
 1. Uncertainties in biogenic emissions & chemistry: unanswered questions from another Southeast. Invited Talk, New Insights into Gas-Phase Atmospheric Chemistry, Telluride Science Research Center, Telluride, Colorado, USA, Jul 2018.
