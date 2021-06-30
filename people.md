@@ -7,26 +7,25 @@ title: People
 
 **Sandra Koenigseder**, PhD 2020-<br/>
        Primary supervisor: Tim Barrows
-       
-**Lily Sheridan**, MRes 2019-2020<br/>
-       Co-supervisor: Stephen Wilson
-       
+              
 **Maria Paula Perez-Peña**, PhD (UNSW) 2019-<br/>
        Primary supervisor: Scott Kable (UNSW)
        
 **Jhonathan Ramirez Gamboa**, PhD 2019-<br/>
        Primary supervisor: Clare Murphy
        
-**Neil Page**, PhD 2018-<br/>
-       Co-supervisor: Stephen Wilson
-       
-**Daniel Saeed**, Honours 2020-2021<br/>
-       Co-supervisors: Clare Murphy, Scott Chambers (ANSTO), Alan Griffiths (ANSTO), Alastair Williams (ANSTO)
+**James Portwin**, Honours 2021<br/>
+       Co-supervisors: Scott Chambers (ANSTO), Alan Griffiths (ANSTO), Alastair Williams (ANSTO)
+
+**Stephen MacFarlane**, Honours 2021
 
 
 ## Alumni
 
-**Sam Limbrey**, Honours 2019-2020, now research assistant at University of Wollongong<br/>
+**Neil Page**, MPhil 2018-2021, now consultant at AirLabs<br/>
+**Lily Sheridan**, MRes 2019-2020, now at UOW<br/>
+**Daniel Saeed**, Honours 2020-2021, now environmental consultant at JBS&G<br/>
+**Sam Limbrey**, Honours 2019-2020, now at Australian Geospatial Intelligence Organisation<br/>
 **Jesse Greenslade**, PhD 2015-2019, now researcher at Bureau of Meteorology<br/>
 **Beata Bukosa**, PhD 2015-2019, now postdoctoral fellow at NIWA, New Zealand<br/>
 **[Max Desservettaz](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/1049-maximilien-desservettaz.html)**, PhD 2014-2018, now Technical Research Specialist at Climate and Atmosphere Research Center, Cyprus Research Institute<br/>
