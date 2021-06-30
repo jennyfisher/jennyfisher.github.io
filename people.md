@@ -5,6 +5,9 @@ title: People
 
 ## Current Students
 
+**Dominique Bally Kpokro**, PhD 2021-<br/>
+       Joint primary supervisor: Gavin Hilson (University of Surrey, UK)
+
 **Sandra Koenigseder**, PhD 2020-<br/>
        Primary supervisor: Tim Barrows
               
