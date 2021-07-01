@@ -7,7 +7,9 @@ title: Publications
 
 ## In Review
 
-1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, Journal of the American Statistical Association. [[read preprint](https://arxiv.org/pdf/2102.04004.pdf)]
+1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, in review for Geoscientific Model Development. [[read preprint](https://arxiv.org/pdf/2102.04004.pdf)]
+2.	Bukosa, B., **J.A. Fisher**, N.M. Deutscher, and D.B. Jones: An improved carbon greenhouse gas simulation in GEOS-Chem version 12.1.1, in review for Geoscientific Model Development.
+3.	Paton-Walsh, C., K.M. Emmerson, R.M. Garland, M. Keywood, J. Hoelzemann, N. Huneeus, R.R. Buchholz, R.S. Humphries, K. Altieri, J. Schmale, S.R. Wilson, C. Labuschagne, E. Kalisa, **J.A. Fisher**, N.M. Deutscher, P. G. van Zyl, J.P.Beukes, W. Joubert, L. Martin, T. Mkololo, C. Barbosa, M. de Fatima Andrade, R. Schofield, M.D. Mallet, MJ. Harvey, P. Formenti, S.J. Piketh, and G. Olivares: Key Challenges for Atmospheric Chemistry in the Southern Hemisphere, in review for Elementa.
 
 ## Referreed
 
