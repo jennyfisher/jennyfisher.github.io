@@ -3,9 +3,54 @@ layout: page
 title: Presentations
 ---
 
-### [Conference Presentations](#conference-presentations)   |   [Seminars & Invited Talks](#seminars-and-invited-talks) 
+### [Seminars & Invited Talks](#seminars-and-invited-talks)    |   [Conference Presentations](#conference-presentations) 
 
 ![presentation-pic](img/presenting.jpeg){:style="float: right;margin-left: 7px;:class="img-responsive"}
+
+## Seminars and Invited Talks
+
+1. Mercury in the Southern Hemisphere (co-presented with Larissa Schneider, Saul Guerrero, and Jean Remy Davee Guimaraes). Minmata Online Season 2, United Nation Environment Program, Aug 2021. ([watch online](https://www.mercuryconvention.org/en/events/minamata-online-2-mercury-southern-hemisphere))
+
+1. Sustainable Planet. Research Plenary, University Global Partnerships Network (UGPN) Virtual Conference, Mar 2021.
+
+1.	Dispatches from Down Under: How Australian observations are teaching us about the Southern Hemisphere atmosphere. Seminar, NOAA Chemical Sciences Laboratory, Boulder, Colorado, USA, Jul 2020.
+
+1. Uncertainties in biogenic emissions & chemistry: unanswered questions from another Southeast. Invited Talk, New Insights into Gas-Phase Atmospheric Chemistry, Telluride Science Research Center, Telluride, Colorado, USA, Jul 2018.
+
+17. Thinking outside the (grid) box: combining modelling with aircraft observations to understand the nitrogen chemistry of the atmosphere. Seminar, National Institute for Water and Air (NIWA), Wellington, New Zealand, Sep 2017.
+
+16. Fates of Volatile Organic Compounds in the Presence of (Some) NOx: Implications for the Remote Atmosphere. Invited Talk, Gordon Research Conference on Atmospheric Chemistry, Newry, Maine, Aug 2017.
+
+15. Thinking outside the (grid) box: combining modelling with aircraft observations to understand nitrogen chemistry in the atmosphere. Seminar. University of Sydney School of Chemistry, Sydney, Australia, Jun 2017.
+
+14. Impacts of organic nitrates on the NOx budget: insights from aircraft observations and chemical transport modeling. Seminar. NCAR Atmospheric Chemistry Observations & Modeling Seminar Series, National Center for Atmospheric Research, Boulder, CO, USA, Apr 2017.
+
+13.	Impacts of organic nitrates on the NOx budget: insights from aircraft observations. Invited Talk, New Insights on Gas-Phase Atmospheric Chemistry, Telluride Science Research Center, Telluride, CO, USA, Jul 2016.
+
+12. Biogenic chemistry in a region of declining emissions: Insights from the NASA SEAC4RS Campaign. Seminar, CSIRO Marine and Atmospheric Research, Aspendale, Jul 2015.
+
+11. Thinking outside the (grid) box: Combining models and observations to interpret our changing atmosphere. Earth, Environmental, and Biological Sciences Seminar, Queensland University of Technology, Oct 2014.
+
+10. What atmospheric chemistry research can tell us about the Earth’s surface (and vice versa). GeoQuEST Seminar, University of Wollongong, Sep 2014.
+
+9. Filling in the gaps: Using models to interpret the Earth’s changing atmosphere. University of Wollongong Budding Ideas research showcase, May 2014. Watch the video.
+
+8. The air from where? Identifying the sources of air pollution to diverse environments. Invited Talk, University of Wollongong Chemistry School Conference, Nov 2013.
+
+7. Distant influences on Australian atmospheric composition. Atmospheric Chemistry Division Seminar, National Center for Atmospheric Research, Oct 2013.
+
+6. Present-day sources and past variability of mercury in the Arctic atmosphere and ocean. Fiore Group Meeting at Lamont Doherty Earth Observatory, Jul 2013.
+
+5. Atmospheric Pollution in the Arctic: sources, transport, and chemical processing. Public Dissertation Defense at Harvard University, Sep 2011.
+
+4. Arctic pollution sources and transport: Results from the ARCTAS aircraft mission and beyond. Atmospheric Science Seminar at Dalhousie University, Apr 2011.
+
+3. Sources of atmospheric and deposited black carbon aerosols in Arctic spring. Invited Talk, International Meeting on Open Burning and the Arctic: Causes, Impacts, and Mitigation Approaches, Nov 2010.
+
+2. Clearing the Haze: constraining the sources and impacts of Arctic air pollution. Harvard University EPS Graduate Student / Post-doc Seminar Series, Oct 2010.
+
+1. Tracking pollution in the Arctic atmosphere. Harvard University Earth and Planetary Sciences Day, Apr 2009.
+{: reversed="reversed"}
 
 ## Conference Presentations
 
@@ -84,45 +129,3 @@ title: Presentations
 1. A Survey of Martian Dust Devil Activity Using Mars Global Surveyor Mars Orbiter Camera Images (poster). American Geophysical Union 2002 Fall Meeting, Dec 2002.
 {: reversed="reversed"}
 
-## Seminars and Invited Talks
-
-1. Sustainable Planet. Research Plenary, University Global Partnerships Network (UGPN) Virtual Conference, Mar 2021.
-
-1.	Dispatches from Down Under: How Australian observations are teaching us about the Southern Hemisphere atmosphere. Seminar, NOAA Chemical Sciences Laboratory, Boulder, Colorado, USA, Jul 2020.
-
-1. Uncertainties in biogenic emissions & chemistry: unanswered questions from another Southeast. Invited Talk, New Insights into Gas-Phase Atmospheric Chemistry, Telluride Science Research Center, Telluride, Colorado, USA, Jul 2018.
-
-17. Thinking outside the (grid) box: combining modelling with aircraft observations to understand the nitrogen chemistry of the atmosphere. Seminar, National Institute for Water and Air (NIWA), Wellington, New Zealand, Sep 2017.
-
-16. Fates of Volatile Organic Compounds in the Presence of (Some) NOx: Implications for the Remote Atmosphere. Invited Talk, Gordon Research Conference on Atmospheric Chemistry, Newry, Maine, Aug 2017.
-
-15. Thinking outside the (grid) box: combining modelling with aircraft observations to understand nitrogen chemistry in the atmosphere. Seminar. University of Sydney School of Chemistry, Sydney, Australia, Jun 2017.
-
-14. Impacts of organic nitrates on the NOx budget: insights from aircraft observations and chemical transport modeling. Seminar. NCAR Atmospheric Chemistry Observations & Modeling Seminar Series, National Center for Atmospheric Research, Boulder, CO, USA, Apr 2017.
-
-13.	Impacts of organic nitrates on the NOx budget: insights from aircraft observations. Invited Talk, New Insights on Gas-Phase Atmospheric Chemistry, Telluride Science Research Center, Telluride, CO, USA, Jul 2016.
-
-12. Biogenic chemistry in a region of declining emissions: Insights from the NASA SEAC4RS Campaign. Seminar, CSIRO Marine and Atmospheric Research, Aspendale, Jul 2015.
-
-11. Thinking outside the (grid) box: Combining models and observations to interpret our changing atmosphere. Earth, Environmental, and Biological Sciences Seminar, Queensland University of Technology, Oct 2014.
-
-10. What atmospheric chemistry research can tell us about the Earth’s surface (and vice versa). GeoQuEST Seminar, University of Wollongong, Sep 2014.
-
-9. Filling in the gaps: Using models to interpret the Earth’s changing atmosphere. University of Wollongong Budding Ideas research showcase, May 2014. Watch the video.
-
-8. The air from where? Identifying the sources of air pollution to diverse environments. Invited Talk, University of Wollongong Chemistry School Conference, Nov 2013.
-
-7. Distant influences on Australian atmospheric composition. Atmospheric Chemistry Division Seminar, National Center for Atmospheric Research, Oct 2013.
-
-6. Present-day sources and past variability of mercury in the Arctic atmosphere and ocean. Fiore Group Meeting at Lamont Doherty Earth Observatory, Jul 2013.
-
-5. Atmospheric Pollution in the Arctic: sources, transport, and chemical processing. Public Dissertation Defense at Harvard University, Sep 2011.
-
-4. Arctic pollution sources and transport: Results from the ARCTAS aircraft mission and beyond. Atmospheric Science Seminar at Dalhousie University, Apr 2011.
-
-3. Sources of atmospheric and deposited black carbon aerosols in Arctic spring. Invited Talk, International Meeting on Open Burning and the Arctic: Causes, Impacts, and Mitigation Approaches, Nov 2010.
-
-2. Clearing the Haze: constraining the sources and impacts of Arctic air pollution. Harvard University EPS Graduate Student / Post-doc Seminar Series, Oct 2010.
-
-1. Tracking pollution in the Arctic atmosphere. Harvard University Earth and Planetary Sciences Day, Apr 2009.
-{: reversed="reversed"}
