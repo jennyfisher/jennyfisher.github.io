@@ -9,7 +9,9 @@ title: Presentations
 
 ## Seminars and Invited Talks
 
-1. Mercury in the Southern Hemisphere (co-presented with Larissa Schneider, Saul Guerrero, and Jean Remy Davee Guimaraes). Minmata Online Season 2, United Nation Environment Program, Aug 2021. ([watch online](https://www.mercuryconvention.org/en/events/minamata-online-2-mercury-southern-hemisphere))
+1. Mercury in the Southern Hemisphere (co-presented with Larissa Schneider, Saul Guerrero, and Jean Remy Davee Guimaraes). Minamata Online Season 2, United Nation Environment Program, Aug 2021. ([watch online](https://www.mercuryconvention.org/en/events/minamata-online-2-mercury-southern-hemisphere))
+
+1. Thinking Outside the (Grid) Box: Combining atmospheric chemistry models and observations to understand our atmosphere. Webinar, Royal Australian Chemical Institute (RACI) Physical Chemistry Research Webinar Series, Apr 2021.
 
 1. Sustainable Planet. Research Plenary, University Global Partnerships Network (UGPN) Virtual Conference, Mar 2021.
 
