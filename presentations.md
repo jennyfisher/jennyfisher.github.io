@@ -56,6 +56,8 @@ title: Presentations
 
 ## Conference Presentations
 
+1. Impact of Australian anthropogenic mercury emissions on atmospheric mercury (talk, on behalf of Stephen MacFarlane). Mercury Australia Symposium, Dec 2021.
+
 1. An updated Australian atmospheric mercury budget + mercury modelling capabilities (talk). Mercury Australia Symposium, Dec 2020.
 
 1. An updated budget for atmospheric mercury in Australia (talk). Atmospheric Composition and Chemistry Observations and Modelling Conference incorporating the Cape Grim Annual Science Meeting, Dec 2020.
