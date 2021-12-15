@@ -7,11 +7,17 @@ title: Publications
 
 ## In Review
 
-1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, in review for Geoscientific Model Development. [[read preprint](https://arxiv.org/pdf/2102.04004.pdf)]
-2.	Bukosa, B., **J.A. Fisher**, N.M. Deutscher, and D.B. Jones: An improved carbon greenhouse gas simulation in GEOS-Chem version 12.1.1, in review for Geoscientific Model Development.
-3.	Paton-Walsh, C., K.M. Emmerson, R.M. Garland, M. Keywood, J. Hoelzemann, N. Huneeus, R.R. Buchholz, R.S. Humphries, K. Altieri, J. Schmale, S.R. Wilson, C. Labuschagne, E. Kalisa, **J.A. Fisher**, N.M. Deutscher, P. G. van Zyl, J.P.Beukes, W. Joubert, L. Martin, T. Mkololo, C. Barbosa, M. de Fatima Andrade, R. Schofield, M.D. Mallet, MJ. Harvey, P. Formenti, S.J. Piketh, and G. Olivares: Key Challenges for Atmospheric Chemistry in the Southern Hemisphere, in review for Elementa.
+
+1.	Bukosa, B., **J.A. Fisher**, N.M. Deutscher, and D.B. Jones: An improved carbon greenhouse gas simulation in GEOS-Chem version 12.1.1, in review for Geoscientific Model Development.
+
+2. Desservettaz, M.D., **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, B. Bukosa, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  J.W. Greenslade. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, in review for Journal of Geophysical Research: Atmospheres.
+
 
 ## Referreed
+
+1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, Geoscientific Model Development (accepted November 2021). [[read preprint](https://arxiv.org/pdf/2102.04004.pdf)]
+
+3.	Paton-Walsh, C., K.M. Emmerson, R.M. Garland, M. Keywood, J. Hoelzemann, N. Huneeus, R.R. Buchholz, R.S. Humphries, K. Altieri, J. Schmale, S.R. Wilson, C. Labuschagne, E. Kalisa, **J.A. Fisher**, N.M. Deutscher, P. G. van Zyl, J.P.Beukes, W. Joubert, L. Martin, T. Mkololo, C. Barbosa, M. de Fatima Andrade, R. Schofield, M.D. Mallet, MJ. Harvey, P. Formenti, S.J. Piketh, and G. Olivares: Key Challenges for Atmospheric Chemistry in the Southern Hemisphere,  Elementa, Science of the Anthropocene (accepted November 2021).
 
 1. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, 8:1, doi: 10.1525/elementa.2020.070 (2020). [[read](https://doi.org/10.1525/elementa.2020.070)]<br>
 ➤ *See also: Fisher and Nelson, Australia’s gold industry stamped out mercury pollution – now it’s coal’s turn. The Conversation (2021). [[read](https://doi.org/10.1038/466925a)].*
