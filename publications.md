@@ -5,19 +5,22 @@ title: Publications
 
 ### [In Review](#in-review) | [Referreed](#referreed) | [Other](#other)
 
+Group members listed in **bold**.
+
 ## In Review
 
+1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), in review for Atmospheric Chemistry and Physics.
 
-1.	Bukosa, B., **J.A. Fisher**, N.M. Deutscher, and D.B. Jones: An improved carbon greenhouse gas simulation in GEOS-Chem version 12.1.1, in review for Geoscientific Model Development.
+1.	**Bukosa, B.**, **J.A. Fisher**, N.M. Deutscher, and D.B. Jones: An improved carbon greenhouse gas simulation in GEOS-Chem version 12.1.1, in review for Geoscientific Model Development.
 
-2. Desservettaz, M.D., **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, B. Bukosa, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  J.W. Greenslade. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, in review for Journal of Geophysical Research: Atmospheres.
+2. **Desservettaz, M.D.**, **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, **B. Bukosa**, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  **J.W. Greenslade**. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, in review for Journal of Geophysical Research: Atmospheres.
 
 
 ## Referreed
 
-1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, Geoscientific Model Development (accepted November 2021). [[read preprint](https://arxiv.org/pdf/2102.04004.pdf)]
+1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, Geoscientific Model Development, 15, 45-73, doi: 10.5194/gmd-15-45-2022, 2022. [[read](https://gmd.copernicus.org/articles/15/45/2022/)]
 
-3.	Paton-Walsh, C., K.M. Emmerson, R.M. Garland, M. Keywood, J. Hoelzemann, N. Huneeus, R.R. Buchholz, R.S. Humphries, K. Altieri, J. Schmale, S.R. Wilson, C. Labuschagne, E. Kalisa, **J.A. Fisher**, N.M. Deutscher, P. G. van Zyl, J.P.Beukes, W. Joubert, L. Martin, T. Mkololo, C. Barbosa, M. de Fatima Andrade, R. Schofield, M.D. Mallet, MJ. Harvey, P. Formenti, S.J. Piketh, and G. Olivares: Key Challenges for Atmospheric Chemistry in the Southern Hemisphere,  Elementa, Science of the Anthropocene (accepted November 2021).
+3.	Paton-Walsh, C., K.M. Emmerson, R.M. Garland, M. Keywood, J. Hoelzemann, N. Huneeus, R.R. Buchholz, R.S. Humphries, K. Altieri, J. Schmale, S.R. Wilson, C. Labuschagne, E. Kalisa, **J.A. Fisher**, N.M. Deutscher, P. G. van Zyl, J.P.Beukes, W. Joubert, L. Martin, T. Mkololo, C. Barbosa, M. de Fatima Andrade, R. Schofield, M.D. Mallet, MJ. Harvey, P. Formenti, S.J. Piketh, and G. Olivares: Key Challenges for Atmospheric Chemistry in the Southern Hemisphere,  Elementa, Science of the Anthropocene, 10 (1): 00050, doi: 10.1525/elementa.2021.00050, 2022. [[read](https://online.ucpress.edu/elementa/article/10/1/00050/119259/Key-challenges-for-tropospheric-chemistry-in-the)]
 
 1. **Fisher, J.A.** and Nelson, P.F.: Atmospheric mercury in Australia: recent findings and future research needs. Elementa, Science of the Anthropocene, 8:1, doi: 10.1525/elementa.2020.070 (2020). [[read](https://doi.org/10.1525/elementa.2020.070)]<br>
 ➤ *See also: Fisher and Nelson, Australia’s gold industry stamped out mercury pollution – now it’s coal’s turn. The Conversation (2021). [[read](https://doi.org/10.1038/466925a)].*
@@ -26,11 +29,11 @@ title: Publications
 
 1. Alexander,  B.,  T. Sherwen,  C.D. Holmes, **J.A. Fisher**,  Q. Chen,  M.J. Evans,  and  P. Kasibhatla: Global  inorganic  nitrate  production  mechanisms:  Comparison  of  a  global  model  with  nitrate  isotope observations, Atmos. Chem. Phys., 20, 3859-3877, doi: 10.5194/acp-20-3859-2020 (2020). [[read](http://dx.doi.org/10.5194/acp-20-3859-2020)]
 
-4.	Lieschke, K.J., **J.A. Fisher**, C. Paton-Walsh, N.B. Jones, J.W. Greenslade, S. Burden, D.W.T. Griffith. Decreasing trend in formaldehyde detected from 20-year record at Wollongong, Southeast Australia. Geophysical Research Letters, 46, 8464– 8473, doi: 10.1029/2019GL083757 (2019). [[read](https://onlinelibrary.wiley.com/doi/10.1029/2019GL083757)]
+4.	**Lieschke, K.J.**, **J.A. Fisher**, C. Paton-Walsh, N.B. Jones, **J.W. Greenslade**, S. Burden, D.W.T. Griffith. Decreasing trend in formaldehyde detected from 20-year record at Wollongong, Southeast Australia. Geophysical Research Letters, 46, 8464– 8473, doi: 10.1029/2019GL083757 (2019). [[read](https://onlinelibrary.wiley.com/doi/10.1029/2019GL083757)]
 
 1. Lutsch, E., K. Strong, D.B.A. Jones, I. Ortega, J.W. Hannigan, E. Dammers, M.W. Shephard, E. Morris, K. Murphy, M.J. Evans, M. Parrington, S. Whitburn, M. Van Damme, L. Clarisse, P.-F. Coheur, C. Clerbaux, B. Croft, R.V. Martin, J.R. Pierce, **J.A. Fisher**. Unprecedented ammonia concentrations detected in the high Arctic from the 2017 Canadian wildfires. Journal of Geophysical Research-Atmospheres, 124, 8178–8202, doi: 10.1029/2019JD030419 (2019). [[read](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030419)]
 
-38.	Bukosa, B., N.M. Deutscher, **J.A. Fisher**, D. Kubistin, C. Paton-Walsh, and D.W.T. Griffith. Simultaneous shipborne measurements of CO2, CH4 and CO and their application to improving greenhouse gas flux estimates in Australia, Atmospheric Chemistry and Physics, 19,  7055-7072,  doi: 10.5194/acp-19-7055-2019 (2019). [[read](http://dx.doi.org/10.5194/acp-19-7055-2019)]
+38.	**Bukosa, B.**, N.M. Deutscher, **J.A. Fisher**, D. Kubistin, C. Paton-Walsh, and D.W.T. Griffith. Simultaneous shipborne measurements of CO2, CH4 and CO and their application to improving greenhouse gas flux estimates in Australia, Atmospheric Chemistry and Physics, 19,  7055-7072,  doi: 10.5194/acp-19-7055-2019 (2019). [[read](http://dx.doi.org/10.5194/acp-19-7055-2019)]
 
 37. Wunch, D., G.C. Toon, N.M. Deutscher, F. Hase, J. Notholt, R. Sussmann, T. Warneke, J. Kuenen, H. Denier van der Gon, **J.A. Fisher**, and J.D. Maasakkers. Emissions of methane in Europe inferred by total column measurements, Atmospheric Chemistry and Physics, 19, 3963-3980, doi: 10.5194/acp-19-3963-2019 (2019). [[read](http://dx.doi.org/10.5194/acp-19-3963-2019)]
 
@@ -45,7 +48,7 @@ title: Publications
 32. Howard, D., P.F. Nelson, G.C. Edwards, A.L. Morrison, **J.A. Fisher**, J. Ward, J. Harnwell, M. van der Schoot, B. Atkinson, S.D. Chambers, A.D. Griffiths, S. Werczynski, and A.G. Williams. Atmospheric mercury in the southern hemisphere tropics: seasonal and diurnal variations and influence of inter-hemispheric transport. Atmospheric Chemistry and Physics, 17, 11623-11636. doi: 10.5194/acp-17-11623-2017 (2017). [[read](http://dx.doi.org/10.5194/acp-17-11623-2017)]<br>
 ➤ *See also: Fisher, Howard, Edwards and Nelson, Mercury from the northern hemisphere is ending up in Australia. The Conversation (2017). [[read](https://theconversation.com/mercury-from-the-northern-hemisphere-is-ending-up-in-australia-83710)].*
 
-31. Greenslade, J.W., Alexander, S.P., Schofield, R., **Fisher, J.A.**, and A.K. Klekociuk. Stratospheric ozone intrusion events and their impacts on tropospheric ozone. Atmospheric Chemistry and Physics, 17, 10269-10290, doi: 10.5194/acp-17-10269-2017 (2017). [[read](http://dx.doi.org/10.5194/acp-17-10269-2017)]
+31. **Greenslade, J.W.**, Alexander, S.P., Schofield, R., **Fisher, J.A.**, and A.K. Klekociuk. Stratospheric ozone intrusion events and their impacts on tropospheric ozone. Atmospheric Chemistry and Physics, 17, 10269-10290, doi: 10.5194/acp-17-10269-2017 (2017). [[read](http://dx.doi.org/10.5194/acp-17-10269-2017)]
 
 30. Chan Miller, C., D.J. Jacob, E.A. Marais, K. Yu, K.R. Travis, P.S. Kim, **J.A. Fisher**, L. Zhu, G.M. Wolfe, F. Keutsch, J. Kaiser, K.-E. Min, S. Brown, R. Washenfelder, G. Gonzalez Abad, and K. Chance. Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data. Atmospheric  Chemistry and Physics, 17, 8725-8738, doi: 10.5194/acp-2016-1042 (2017). [[read](http://dx.doi.org/10.5194/acp-2016-1042)]
 
