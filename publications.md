@@ -9,18 +9,17 @@ Group members listed in **bold**.
 
 ## In Review
 
-1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, in review for Environmental Science: Processes and Impacts. [[read pre-print](https://eartharxiv.org/repository/view/3048/)]
 
 1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), in review for Atmospheric Chemistry and Physics. [[read pre-print](https://acp.copernicus.org/preprints/acp-2021-1052/acp-2021-1052.pdf)]
-
-1.	**Bukosa, B.**, **J.A. Fisher**, N.M. Deutscher, and D.B. Jones. An improved carbon greenhouse gas simulation in GEOS-Chem version 12.1.1, in review for Geoscientific Model Development. [[read pre-print](https://gmd.copernicus.org/preprints/gmd-2021-173/gmd-2021-173.pdf)]
 
 
 
 
 ## Referreed
 
-1. **Desservettaz, M.D.**, **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, **B. Bukosa**, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  **J.W. Greenslade**. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, Journal of Geophysical Research: Atmospheres, 127, e2021JD035925, doi: 10.1029/2021JD035925, 2022. [[read](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035925)]
+1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts, accepted April 2022. [[read pre-print](https://eartharxiv.org/repository/view/3048/)]
+
+3. **Desservettaz, M.D.**, **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, **B. Bukosa**, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  **J.W. Greenslade**. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, Journal of Geophysical Research: Atmospheres, 127, e2021JD035925, doi: 10.1029/2021JD035925, 2022. [[read](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035925)]
 
 1.	Zammit-Mangion, A., M. Bertolacci, **J.A. Fisher**, A. Stavert, M.L. Rigby, Y. Cao and N.Cressie: WOMBAT: A fully Bayesian global flux-inversion framework, Geoscientific Model Development, 15, 45-73, doi: 10.5194/gmd-15-45-2022, 2022. [[read](https://gmd.copernicus.org/articles/15/45/2022/)]
 
