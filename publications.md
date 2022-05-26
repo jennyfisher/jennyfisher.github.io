@@ -17,7 +17,7 @@ Group members listed in **bold**.
 
 ## Referreed
 
-1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts, accepted April 2022. [[read pre-print](https://eartharxiv.org/repository/view/3048/)]
+1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts, 10.1039/D2EM00019A 2022. [[read](https://doi.org/10.1039/D2EM00019A)]
 
 3. **Desservettaz, M.D.**, **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, **B. Bukosa**, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  **J.W. Greenslade**. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, Journal of Geophysical Research: Atmospheres, 127, e2021JD035925, doi: 10.1029/2021JD035925, 2022. [[read](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035925)]
 
