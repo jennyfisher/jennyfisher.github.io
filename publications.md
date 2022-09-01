@@ -10,14 +10,17 @@ Group members listed in **bold**.
 ## In Review
 
 
-1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), in review for Atmospheric Chemistry and Physics. [[read pre-print](https://acp.copernicus.org/preprints/acp-2021-1052/acp-2021-1052.pdf)]
+1. Schneider, L., **J.A. Fisher**, M.C. Diéguez, A.-H. Fostier, J.R.D. Guimãraes, J.J. Leaner, R.P. Mason. A synthesis of mercury research in the Southern Hemisphere, Part 1: natural processes, Invited Paper in review for Ambio.
 
-
+3.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, Invited Paper in review for Ambio.
 
 
 ## Referreed
 
-1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts, 10.1039/D2EM00019A 2022. [[read](https://doi.org/10.1039/D2EM00019A)]
+1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), Atmospheric Chemistry and Physics, accepted Aug 2022. [[read pre-print](https://acp.copernicus.org/preprints/acp-2021-1052/acp-2021-1052.pdf)]
+
+
+1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts (invited), 10.1039/D2EM00019A 2022. [[read](https://doi.org/10.1039/D2EM00019A)]
 
 3. **Desservettaz, M.D.**, **J.A. Fisher**, A.K. Luhar, M.T. Woodhouse, **B. Bukosa**, R.R. Buchholz, C. Wiedinmyer, D.W.T. Griffith, P.B. Krummel, N.B. Jones, N.M. Deutscher, and  **J.W. Greenslade**. Australian fire emissions of carbon monoxide estimated by global biomass burning inventories: variability and observational constraints, Journal of Geophysical Research: Atmospheres, 127, e2021JD035925, doi: 10.1029/2021JD035925, 2022. [[read](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035925)]
 
