@@ -17,7 +17,7 @@ Group members listed in **bold**.
 
 ## Referreed
 
-1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), Atmospheric Chemistry and Physics, accepted Aug 2022. [[read pre-print](https://acp.copernicus.org/preprints/acp-2021-1052/acp-2021-1052.pdf)]
+1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), Atmospheric Chemistry and Physics, 22, 12367–12386, doi: 10.5194/acp-22-12367-2022, 2022. [[read](https://acp.copernicus.org/articles/22/12367/2022/)]
 
 
 1. **MacFarlane, S.**, **J.A. Fisher**, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts (invited), 10.1039/D2EM00019A 2022. [[read](https://doi.org/10.1039/D2EM00019A)]
