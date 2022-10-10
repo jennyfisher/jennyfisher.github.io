@@ -5,7 +5,7 @@ title: SURGE
 
 ## Undergraduate Research Opportunity
 
-**SURGE into a research career!** The SURGE (Supporting Undergraduate Research for Greater Equity) research assistantship is a paid research opportunity for UOW undergraduate students majoring in science, mathematics, or engineering who are interested in applying computational skills to environmental questions. SURGE aims to improve diversity and equity in research by providing opportunities to students who come from demographic groups that are traditionally underrepresented in these fields.
+**SURGE into a research career!** The SURGE (Supporting Undergraduate Research for Greater Equity) research assistantship is a paid research opportunity for UOW undergraduate students majoring in science, mathematics, or engineering who are interested in applying computational skills to environmental questions. SURGE aims to improve diversity and equity in research by providing opportunities to students who come from demographic groups that are traditionally underrepresented in these fields. [**Apply here**](https://forms.gle/vt5AHgZjkebQbniNA) **by 31 Oct.**
 
 ### Program Details
 The SURGE program provides funding for 200 hours of paid work as a research assistant. The program can be conducted full-time over the summer break (Jan-Feb), part-time over the Autumn semester (Mar-Jun), or a combination of the two, based on the preferences of the successful applicant. The research assistant will be paid at professional services casual rate 3, equivalent to ~$39/hour (including a casual loading).
@@ -40,4 +40,4 @@ In 2023, funding for this project comes from a grant from the Health Effects Ins
 Email your question to jennyf@uow.edu.au. 
 
 
-**APPLY HERE!**
+## Ready to Apply? [Click here!](https://forms.gle/vt5AHgZjkebQbniNA)
