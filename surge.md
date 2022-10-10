@@ -16,7 +16,7 @@ The SURGE scholar will join a vibrant group of researchers at the UOW Centre for
 Applicants must be UOW undergraduates and should meet the following criteria:
 - Majoring in any science, mathematics, or engineering degree in the Faculty of Science, Medicine and Health (SMAH) or the Faculty of Engineering & Information Sciences (EIS)
 - Completed at least 1 year (48 credit points) of university subjects\*
-- Identify with one or more community that is underrepresented in STEM fields (including women and non-binary people, Aboriginal and Torres Strait Islander people, people from other racial or ethnic minority communities, people from low socioeconomic backgrounds, and people with disability)\**
+- Identify with one or more community that is underrepresented in STEM fields (including women and non-binary people, Aboriginal and Torres Strait Islander people, people from racial or ethnic minority communities, people from low socioeconomic backgrounds, and people with disability)\**
 - Have a strong desire to undertake an independent research project
 - Have a keen interest in learning or further developing computational and statistical skills
 
