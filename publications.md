@@ -10,9 +10,11 @@ Group members listed in **bold**.
 ## In Review
 
 
-1. Schneider, L., **J.A. Fisher**, M.C. Diéguez, A.-H. Fostier, J.R.D. Guimãraes, J.J. Leaner, R.P. Mason. A synthesis of mercury research in the Southern Hemisphere, Part 1: natural processes, Invited Paper in review for Ambio.
+1. Schneider, L., **J.A. Fisher**, M.C. Diéguez, A.-H. Fostier, J.R.D. Guimãraes, J.J. Leaner, R.P. Mason. A synthesis of mercury research in the Southern Hemisphere, Part 1: natural processes, Invited Paper in review for *Ambio*.
 
-3.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, Invited Paper in review for Ambio.
+2.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, Invited Paper in review for *Ambio*.
+
+3.	Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, in review for *The Annals of Applied Statistics*.
 
 
 ## Referreed
