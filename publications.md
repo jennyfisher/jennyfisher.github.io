@@ -11,7 +11,7 @@ Group members listed in **bold**.
 
 
 
-3.	Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, in review for *The Annals of Applied Statistics*.
+1.	Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, in review for *The Annals of Applied Statistics*.
 
 
 ## Referreed
