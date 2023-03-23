@@ -10,14 +10,15 @@ Group members listed in **bold**.
 ## In Review
 
 
-1. Schneider, L., **J.A. Fisher**, M.C. Diéguez, A.-H. Fostier, J.R.D. Guimãraes, J.J. Leaner, R.P. Mason. A synthesis of mercury research in the Southern Hemisphere, Part 1: natural processes, Invited Paper in review for *Ambio*.
-
-2.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, Invited Paper in review for *Ambio*.
 
 3.	Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, in review for *The Annals of Applied Statistics*.
 
 
 ## Referreed
+
+1.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, *Ambio* (invited), doi: 10.1007/s13280-023-01840-5, 2023. [[read](https://link.springer.com/article/10.1007/s13280-023-01840-5)]
+
+1. Schneider, L., **J.A. Fisher**, M.C. Diéguez, A.-H. Fostier, J.R.D. Guimãraes, J.J. Leaner, R.P. Mason. A synthesis of mercury research in the Southern Hemisphere, Part 1: natural processes, *Ambio* (invited), doi: 10.1007/s13280-023-01832-5, 2023. [[read](https://link.springer.com/article/10.1007/s13280-023-01832-5)]
 
 1. **Pérez-Peña, M.P.**, **J.A. Fisher**, D. B. Millet, H. Yashiro, R.L. Langenfelds, P.B. Krummel, and S.H. Kable. Evaluating the contribution of the unexplored photochemistry of aldehydes on the tropospheric levels of molecular hydrogen (H2), Atmospheric Chemistry and Physics, 22, 12367–12386, doi: 10.5194/acp-22-12367-2022, 2022. [[read](https://acp.copernicus.org/articles/22/12367/2022/)]
 
