@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### [In Review](#in-review) | [Referreed](#referreed) | [Other](#other)
+### [In Review](#in-review) | [Refereed](#refereed) | [Other](#other)
 
 Group members listed in **bold**.
 
@@ -14,7 +14,7 @@ Group members listed in **bold**.
 1.	Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, in review for *The Annals of Applied Statistics*.
 
 
-## Referreed
+## Refereed
 
 1.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, *Ambio* (invited), doi: 10.1007/s13280-023-01840-5, 2023. [[read](https://link.springer.com/article/10.1007/s13280-023-01840-5)]
 
