@@ -16,6 +16,8 @@ Group members listed in **bold**.
 
 ## Refereed
 
+1. **Bukosa, B.**, **J.A. Fisher**, N.M. Deutscher, D.B.A. Jones. A coupled CH4, CO and CO2 simulation for improved chemical source modelling, *Atmosphere* (Special Issue: *Atmospheric Dispersion and Chemistry Models: Advances and Applications*), 14(5), 764, doi: 10.3390/atmos14050764, 2023. [[read](https://www.mdpi.com/2073-4433/14/5/764)]
+
 1.	**Fisher, J.A.**, L. Schneider, A.-H. Fostier, S. Guerrero, J.R.D. Guimãraes, C. Labuschagne, J.J. Leaner, L.G. Martin, R.P. Mason, V. Somerset, C. Walters. A synthesis of mercury research in the Southern Hemisphere, Part 2: anthropogenic processes, *Ambio* (invited), doi: 10.1007/s13280-023-01840-5, 2023. [[read](https://link.springer.com/article/10.1007/s13280-023-01840-5)]
 
 1. Schneider, L., **J.A. Fisher**, M.C. Diéguez, A.-H. Fostier, J.R.D. Guimãraes, J.J. Leaner, R.P. Mason. A synthesis of mercury research in the Southern Hemisphere, Part 1: natural processes, *Ambio* (invited), doi: 10.1007/s13280-023-01832-5, 2023. [[read](https://link.springer.com/article/10.1007/s13280-023-01832-5)]
