@@ -11,10 +11,14 @@ Group members listed in **bold**.
 
 
 
-1.	Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, in review for *The Annals of Applied Statistics*.
+1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, in review for *Atmospheric Chemistry and Physics*. [[read preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1331/)].
 
 
 ## Refereed
+
+1. **Pérez-Peña, M.P.**, **J.A. Fisher**, C. Hansen, S.H. Kable. Assessing the atmospheric fate of trifluoroacetaldehyde (CF3CHO) and its potential as a new source of fluoroform (HFC-23) using the AtChem2 box model, Environmental Science: Atmospheres, doi: 10.1039/D3EA00120B,2023. [[read](https://pubs.rsc.org/en/content/articlelanding/2023/EA/D3EA00120B)]
+
+2. Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, *The Annals of Applied Statistics*, accepted June 2023.
 
 1. **Bukosa, B.**, **J.A. Fisher**, N.M. Deutscher, D.B.A. Jones. A coupled CH4, CO and CO2 simulation for improved chemical source modelling, *Atmosphere* (Special Issue: *Atmospheric Dispersion and Chemistry Models: Advances and Applications*), 14(5), 764, doi: 10.3390/atmos14050764, 2023. [[read](https://www.mdpi.com/2073-4433/14/5/764)]
 
