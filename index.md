@@ -4,13 +4,13 @@ use-site-title: true
 ---
 
 ![profile-pic](img/jenny-fisher-bnw_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
-### Associate Professor
+### Professor
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
 
-### Associate Dean (Equity, Diversity and Inclusion)
-#### [Faculty of Science, Medicine and Health](https://www.uow.edu.au/science-medicine-health/)<br />
-#### [University of Wollongong](https://www.uow.edu.au/)
+### Australian Science Policy Fellow
+#### [Critical Technologies Hub](https://www.industry.gov.au/science-technology-and-innovation/technology)<br />
+#### [Department of Industry, Science and Resources](https://www.industry.gov.au/)
 
 Room G19, Building 41, Northfields Avenue  
 Wollongong, NSW 2522, Australia  
@@ -25,8 +25,7 @@ I teach earth systems science and introductory programming to undergraduate stud
 
 ### News
 
+- From January to June 2024, I am spending my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
+- After 3.5 years as Associate Dean (Equity, Diversity, and Inclusion) in SMAH, my term officially came to an end in December 2023. I feel so privileged to have been in the position, learned so much, and worked with so many incredible people. I'm proud of what we accomplished, and know there is much still to do.
+- Two graduations! Jhonathan Ramirez Gamboa and Maria Paula Pérez Peña both officially graduated in 2023. After years of COVID hiatus, it was such a joy to be part of their graduation ceremonies.
 - Two new papers published! As part of the global mercury synthesis effort published in *Ambio*, we wrote two papers synthesising Mercury in the Southern Hemisphere, one on natural processes ([Schneider et al.](https://link.springer.com/article/10.1007/s13280-023-01832-5)) and one on anthropogenic processes ([Fisher et al.](https://link.springer.com/article/10.1007/s13280-023-01840-5)). We explore how the southern hemisphere and tropics are different from the northern hemisphere in ways that impact mercury cycling, science, and ultimately policy.
-- New PhD student Bakhat Rawat arrived in Wollongong and began his PhD. Bakhat has a background in atmospheric mercury measurement in Nepal and China and will be using a variety of atmospheric mercury measurements from across Australia to understand mercury distributions and changes in the southern hemisphere.
-- A [new paper](https://pubs.rsc.org/en/content/articlelanding/2022/EM/D2EM00019A) led by PhD student (and former Honours student) Stephen MacFarlane was published in *Environmental Sciences: Processes and Impacts*. The paper describes how Australian anthropogenic mercury emissions have changed over the past 20 years, and what this means for atmospheric mercury and mercury deposition. Congratulations, Stephen!
-- PhD student Dominique Kpokro arrived in Wollongong! Dom is undertaking an interdisciplinary joint PhD at UOW (with the [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)) and the Unversity of Surrey (with Professor [Gavin Hilson](https://www.surrey.ac.uk/people/gavin-hilson)), working on understanding the environmental and social implications of artisanal and small-scaled gold mining in West Africa. Welcome Dom!
-- I was awarded the [2022 Anton Hales Medal](https://www.science.org.au/supporting-science/awards-and-opportunities/honorific-awardees/2022-awardees#hales) from the Australian Academy of Sciences.
