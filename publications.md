@@ -9,12 +9,13 @@ Group members listed in **bold**.
 
 ## In Review
 
-
-
-1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, in review for *Atmospheric Chemistry and Physics*. [[read preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1331/)].
+None at present
 
 
 ## Refereed
+
+1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, *Atmospheric Chemistry and Physics*, accepted Jan 2024. [[read preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1331/)].
+
 
 1. **Pérez-Peña, M.P.**, **J.A. Fisher**, C. Hansen, S.H. Kable. Assessing the atmospheric fate of trifluoroacetaldehyde (CF3CHO) and its potential as a new source of fluoroform (HFC-23) using the AtChem2 box model, Environmental Science: Atmospheres, doi: 10.1039/D3EA00120B,2023. [[read](https://pubs.rsc.org/en/content/articlelanding/2023/EA/D3EA00120B)]
 
