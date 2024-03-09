@@ -14,7 +14,7 @@ None at present
 
 ## Refereed
 
-1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, *Atmospheric Chemistry and Physics*, accepted Jan 2024. [[read preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1331/)].
+1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, *Atmospheric Chemistry and Physics*, 22, 2985–3007, doi: 10.5194/acp-24-2985-2024, 2024. [[read](https://acp.copernicus.org/articles/24/2985/2024/)].
 
 2. Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, *The Annals of Applied Statistics*, 18 (1), 303-327, doi: 10.1214/23-AOAS1790, 2024. [[read](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Inferring-changes-to-the-global-carbon-cycle-with-WOMBAT-v20/10.1214/23-AOAS1790.short)]
 
