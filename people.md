@@ -9,6 +9,9 @@ title: People
 
 ## Current Students
 
+**Beth Killen**, PhD 2024-<br/>
+       Primary supervisor: Scott Kable (UNSW)
+
 **Bakhat Rawat**, PhD 2023-<br/>
        Co-supervisors: Nicholas Deutscher, Jennifer Powell (CSIRO)
 
@@ -17,12 +20,10 @@ title: People
 
 **Dominique Bally Kpokro**, PhD 2021-<br/>
        Joint primary supervisor: Gavin Hilson (University of Surrey, UK)
+       Co-Supervisors: Larissa Schneider (ANU), Clare Murphy
 
 **Sandra Koenigseder**, PhD 2020-<br/>
-       Primary supervisor: Tim Barrows
-              
-**Maria Paula Perez-Peña**, PhD (UNSW) 2019-<br/>
-       Primary supervisor: Scott Kable (UNSW)
+       Co-supervisors: Tim Barrows, Jason Evans (UNSW)
               
 
 ## Alumni
