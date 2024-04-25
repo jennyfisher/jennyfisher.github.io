@@ -22,7 +22,7 @@ title: People
        Joint primary supervisor: Gavin Hilson (University of Surrey, UK)
        Co-Supervisors: Larissa Schneider (ANU), Clare Murphy
 
-**Sandra Koenigseder**, PhD 2020-<br/>
+**Sandra Koenigseder**, PhD 2020-2024
        Co-supervisors: Tim Barrows, Jason Evans (UNSW)
               
 
