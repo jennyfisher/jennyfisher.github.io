@@ -9,6 +9,11 @@ title: Presentations
 
 ## Seminars and Invited Talks
 
+1.	‘All models are wrong, but some are useful’: combining models with observations to understand human impacts on the atmosphere. Professorial Seminar, JCU College of Science and Engineering, Apr 2024.
+2.	‘All models are wrong, but some are useful’: modelling the chemistry of our changing atmosphere. Seminar, UNSW School of Chemistry, Jun 2023.
+3.	A Synthesis of Mercury Research in the Southern Hemisphere (co-presented with Larissa Schneider, Maria Diéguez, Lynwill Martin and Robert Mason). Minamata Online Season 3, United Nation Environment Program, Apr 2023. 
+4.	Teaching Programming and Modelling to 1st-Year Undergraduates: Tips and Lessons Learned. Seminar, University of Wollongong Data and Decision Science Network, Oct 2022.
+
 1. Mercury in the Southern Hemisphere (co-presented with Larissa Schneider, Saul Guerrero, and Jean Remy Davee Guimaraes). Minamata Online Season 2, United Nation Environment Program, Aug 2021. ([watch online](https://www.mercuryconvention.org/en/events/minamata-online-2-mercury-southern-hemisphere))
 
 1. Thinking Outside the (Grid) Box: Combining atmospheric chemistry models and observations to understand our atmosphere. Webinar, Royal Australian Chemical Institute (RACI) Physical Chemistry Research Webinar Series, Apr 2021.
@@ -55,6 +60,10 @@ title: Presentations
 {: reversed="reversed"}
 
 ## Conference Presentations
+
+1. A tale of two aldehydes: global implications of new photochemical and photophysical degradation pathways (poster). Gordon Research Conference on Atmospheric Chemistry, Maine, USA, Aug 2023.
+2.	A Synthesis of Mercury Research in the Southern Hemisphere: Anthropogenic Perturbations. Mercury Australia Symposium (talk), Jul 2023. 
+3.	Two Decades of Changing Anthropogenic Mercury Emissions in Australia. International Conference on Mercury as a Global Pollutant, Virtual, July 2022.
 
 1. Impact of Australian anthropogenic mercury emissions on atmospheric mercury (talk, on behalf of Stephen MacFarlane). Mercury Australia Symposium, Dec 2021.
 
