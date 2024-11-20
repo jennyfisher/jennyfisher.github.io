@@ -9,7 +9,6 @@ use-site-title: true
 #### [University of Wollongong](https://www.uow.edu.au/)
 
 ### Australian Science Policy Fellow
-#### [Critical Technologies Hub](https://www.industry.gov.au/science-technology-and-innovation/technology)<br />
 #### [Department of Industry, Science and Resources](https://www.industry.gov.au/)
 
 Room G19, Building 41, Northfields Avenue  
@@ -24,8 +23,7 @@ My research centres on investigating the sources, chemical evolution, and transp
 I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
 
 ### News
-- From January to June 2024, I am spending my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
+- New paper published, led by former Master's student Neil Page. The paper delves into the environmental drivers of bromine monoxide and mercury variability in coastal East Antarctica. Read at [*Atmospheric Environment*](https://doi.org/10.1016/j.atmosenv.2024.120918).
+- From January to December 2024, I am spending my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
 - We're excited to welcome Beth Killen to the group! Beth is a new PhD student at UNSW who will help us continue to build bridges between laboratory experiments in the Kable group at UNSW and global atmospheric modelling in the UOW Centre for Atmospheric Chemistry.
 - After 3.5 years as Associate Dean (Equity, Diversity, and Inclusion) in SMAH, my term officially came to an end in December 2023. I feel so privileged to have been in the position, learned so much, and worked with so many incredible people. I'm proud of what we accomplished, and know there is much still to do.
-- Two graduations! Jhonathan Ramirez Gamboa and Maria Paula Pérez Peña both officially graduated in 2023. After years of COVID hiatus, it was such a joy to be part of their graduation ceremonies.
-- Two new papers published! As part of the global mercury synthesis effort published in *Ambio*, we wrote two papers synthesising Mercury in the Southern Hemisphere, one on natural processes ([Schneider et al.](https://link.springer.com/article/10.1007/s13280-023-01832-5)) and one on anthropogenic processes ([Fisher et al.](https://link.springer.com/article/10.1007/s13280-023-01840-5)). We explore how the southern hemisphere and tropics are different from the northern hemisphere in ways that impact mercury cycling, science, and ultimately policy.
