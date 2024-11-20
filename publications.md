@@ -14,7 +14,11 @@ None at present
 
 ## Refereed
 
-1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, *Atmospheric Chemistry and Physics*, 22, 2985–3007, doi: 10.5194/acp-24-2985-2024, 2024. [[read](https://acp.copernicus.org/articles/24/2985/2024/)].
+1.	**Page, N.C.**, **J.A. Fisher**, S.R. Wilson, R. Schofield, R.G. Ryan, S. Gribben, A.R. Klekociuk, G.C. Edwards, A. Morrison. *Environmental drivers of tropospheric bromine and mercury variability in coastal Antarctica*. Atmospheric Environment, 342, 120918, doi: 10.1016/j.atmosenv.2024.120918, 2025. [[read](https://doi.org/10.1016/j.atmosenv.2024.120918)]
+
+2.	Harpur, P., B. Szucs, **J. Fisher**, N.A. Pachana. Insights from the chancellery: considerations for a university lead on equity, diversity, and inclusion. *Higher Education Research and Development*, 1–15, doi: 10.1080/07294360.2024.2399078, 2024.[[read](https://www.tandfonline.com/doi/full/10.1080/07294360.2024.2399078)]
+
+1.	Feng, X., L.J. Mickely, M.L. Bell, T. Liu, **J.A. Fisher**, M. Val Martin. Improved estimates of smoke exposure during Australia fire seasons: Importance of quantifying plume injection heights, *Atmospheric Chemistry and Physics*, 22, 2985–3007, doi: 10.5194/acp-24-2985-2024, 2024. [[read](https://acp.copernicus.org/articles/24/2985/2024/)]
 
 2. Bertolacci, M., A. Zammit-Mangion, A. Schuh, B. Bukosa, **J.A. Fisher**, Y. Cao, A. Kaushik, N. Cressie. Inferring changes to the global carbon cycle with WOMBAT v2.0, a hierarchical flux-inversion framework, *The Annals of Applied Statistics*, 18 (1), 303-327, doi: 10.1214/23-AOAS1790, 2024. [[read](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Inferring-changes-to-the-global-carbon-cycle-with-WOMBAT-v20/10.1214/23-AOAS1790.short)]
 
