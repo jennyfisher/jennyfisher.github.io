@@ -4,7 +4,7 @@ use-site-title: true
 ---
 
 ![profile-pic](img/profile_pic_AAS-smaller.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
-### Associate Dean Teaching & Learning
+### Associate Dean Learning & Teaching
 #### [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
 #### [James Cook University](https://www.jcu.edu.au)
 
