@@ -5,17 +5,17 @@ use-site-title: true
 
 ![profile-pic](img/profile_pic_AAS-smaller.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Associate Dean Teaching & Learning
-### [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
+#### [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
 #### [James Cook University](https://www.jcu.edu.au)
 
 ### Honorary Professor
 #### [Environmental Futures](https://www.uow.edu.au/science-medicine-health/research/environmental-futures/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
 
-Room G19, Building 41, Northfields Avenue  
-Wollongong, NSW 2522, Australia  
-P: +61 2 4221 5484  
-E: jennyf [at] uow.edu.au
+<!--Room G19, Building 41, Northfields Avenue  -->
+<!--Wollongong, NSW 2522, Australia  -->
+<!--P: +61 2 4221 5484  -->
+<!--E: jennyf [at] uow.edu.au -->
 
 ### Research Overview
 My research centres on investigating the sources, chemical evolution, and transport pathways of atmospheric pollution. I use a global chemical transport model combined with observational data sets (ground-based, aircraft, and satellite) to increase our fundamental understanding of the impacts of human activity and natural processes on atmospheric composition in diverse environments. [[CV]](pdfs/CV_web.pdf) [[ORCiD]](http://orcid.org/0000-0002-2921-1691) [[UOW Scholars]](https://scholars.uow.edu.au/display/jenny_fisher)
