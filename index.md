@@ -4,12 +4,13 @@ use-site-title: true
 ---
 
 ![profile-pic](img/profile_pic_AAS.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
-### Professor
-#### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
-#### [University of Wollongong](https://www.uow.edu.au/)
+### Associate Dean Teaching & Learning
+### [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
+#### [James Cook University](https://www.jcu.edu.au)
 
-### Australian Science Policy Fellow
-#### [Department of Industry, Science and Resources](https://www.industry.gov.au/)
+### Honorary Professor
+#### [Environmental Futures](https://www.uow.edu.au/science-medicine-health/research/environmental-futures/)<br />
+#### [University of Wollongong](https://www.uow.edu.au/)
 
 Room G19, Building 41, Northfields Avenue  
 Wollongong, NSW 2522, Australia  
@@ -23,7 +24,6 @@ My research centres on investigating the sources, chemical evolution, and transp
 I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
 
 ### News
+- As of January 2025, I have started a new position as Associate Dean Learning and Teaching in the College of Science and Engineering at James Cook University (JCU).
 - New paper published, led by former Master's student Neil Page. The paper delves into the environmental drivers of bromine monoxide and mercury variability in coastal East Antarctica. Read at [*Atmospheric Environment*](https://doi.org/10.1016/j.atmosenv.2024.120918).
-- From January to December 2024, I am spending my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
-- We're excited to welcome Beth Killen to the group! Beth is a new PhD student at UNSW who will help us continue to build bridges between laboratory experiments in the Kable group at UNSW and global atmospheric modelling in the UOW Centre for Atmospheric Chemistry.
-- After 3.5 years as Associate Dean (Equity, Diversity, and Inclusion) in SMAH, my term officially came to an end in December 2023. I feel so privileged to have been in the position, learned so much, and worked with so many incredible people. I'm proud of what we accomplished, and know there is much still to do.
+- From January to December 2024, I spent my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
