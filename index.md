@@ -3,7 +3,7 @@ layout: page
 use-site-title: true
 ---
 
-![profile-pic](img/jenny-fisher-bnw_med_hr.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![profile-pic](img/profile_pic_AAS.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Professor
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
