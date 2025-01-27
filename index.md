@@ -16,6 +16,7 @@ use-site-title: true
 <br><!--Wollongong, NSW 2522, Australia  -->
 <br><!--P: +61 2 4221 5484  -->
 <br><!--E: jennyf [at] uow.edu.au -->
+<br>
 
 ### Research Overview
 My research centres on investigating the sources, chemical evolution, and transport pathways of atmospheric pollution. I use a global chemical transport model combined with observational data sets (ground-based, aircraft, and satellite) to increase our fundamental understanding of the impacts of human activity and natural processes on atmospheric composition in diverse environments. [[CV]](pdfs/CV_web.pdf) [[ORCiD]](http://orcid.org/0000-0002-2921-1691) [[UOW Scholars]](https://scholars.uow.edu.au/display/jenny_fisher)
