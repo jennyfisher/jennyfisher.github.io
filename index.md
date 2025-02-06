@@ -8,8 +8,6 @@ use-site-title: true
 #### [College of Science and Engineering](https://www.jcu.edu.au/college-of-science-and-engineering)
 #### [James Cook University](https://www.jcu.edu.au)
 
-<br>
-
 ### Honorary Professor
 #### [Environmental Futures](https://www.uow.edu.au/science-medicine-health/research/environmental-futures/)<br />
 #### [University of Wollongong](https://www.uow.edu.au/)
