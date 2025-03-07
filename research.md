@@ -3,15 +3,20 @@ layout: page
 title: Research
 ---
 
-My students and I work collaboratively with colleagues in the [UOW Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/), as well as researchers around the world, to investigate a variety of issues related to atmospheric composition, chemistry, and climate.
+My students and I work collaboratively with researchers around the world to investigate a variety of issues related to atmospheric composition, chemistry, and climate.
+
+## Mercury Biogeochemistry
+
+Mercury is a neurotoxin that is emitted by anthropogenic activity and bioaccumulates in marine and terrestrial foodwebs. The biogeochemical cycling of mercury between the atmosphere, ocean, and snow/ice in the Southern Hemisphere is still extremely uncertain. We are using observations of mercury in the Antarctic and Southern Ocean to constrain a biogeochemical model of mercury and evaluate the impacts for polar mercury cycling. We are also investigating the drivers of mercury variability across the Southern Hemisphere and the links to mercury exposure.
+
+## Novel Atmospheric Chemistry
+
+Understanding of atmospheric chemical reactions is changing rapidly due to advances in measurement techniques in laboratory and field settings. Using models, we are working collaboratively with experimental colleagues to test the impacts of newly discovered chemical reaction mechanisms. We are also working collaboratively to use new measurement capabilities to test and improve atmospheric models.
 
 ## Southern Hemisphere Atmospheric Composition
 
 Short-lived gases in the atmosphere play a critical role in regulating atmospheric composition, air quality, and climate forcing, with implications for issues ranging from human health to climate change. In the southern hemisphere, the relative importance different sources in controlling the abundance of these gases is poorly understood. Biogenic emissions in particular play a major role in many southern hemisphere environments, and longe-range transport can introduce pollution to otherwise clean environments. Using a global chemical transport model constrained by ground-based and satellite data, we are providing new constraints on this problem.
 
-## Mercury Biogeochemistry
-
-Mercury is a neurotoxin that is emitted by anthropogenic activity and bioaccumulates in marine and terrestrial foodwebs. The biogeochemical cycling of mercury between the atmosphere, ocean, and snow/ice in the Southern Hemisphere is still extremely uncertain. We are using observations of mercury in the Antarctic and southern ocean to constrain a biogeochemical model of mercury and evaluate the impacts for polar mercury cycling. We are also investigating the drivers of mercury variability across the Southern Hemisphere and the links to mercury exposure.
 
 ## Biogenic Emissions and Chemistry
 
