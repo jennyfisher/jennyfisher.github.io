@@ -5,7 +5,7 @@ title: People
 
 ## Current Postdocs
 
-**Paolo Sebastianelli**, Postdoc 2023-2024
+**Paolo Sebastianelli**, Postdoc 2023-2025
 
 ## Current Students
 
