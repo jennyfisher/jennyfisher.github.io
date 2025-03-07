@@ -9,12 +9,14 @@ Group members listed in **bold**.
 
 ## In Review
 
-None at present
+1. **MacFarlane, S.**, **J.A. Fisher**, L. Xu, P.O. Wennberg, J.D. Crounse, K. Ball, S. Zhai, K. Bates, Y. Kim, Q. Zhang, D. Blake. Sources, Sinks and Oxidation Pathways of Phenolic Compounds in South Korea Constrained Using KORUS-AQ Airborne Observations. In review for *Journal of Geophysical Research - Atmospheres*.
 
 
 ## Refereed
 
-1.	**Page, N.C.**, **J.A. Fisher**, S.R. Wilson, R. Schofield, R.G. Ryan, S. Gribben, A.R. Klekociuk, G.C. Edwards, A. Morrison. *Environmental drivers of tropospheric bromine and mercury variability in coastal Antarctica*. Atmospheric Environment, 342, 120918, doi: 10.1016/j.atmosenv.2024.120918, 2025. [[read](https://doi.org/10.1016/j.atmosenv.2024.120918)]
+1. Thomson, J.D., J.S. Campbell, E.B. Edwards, C. Medcraft, K. Nauta, **M.P. Pérez-Peña**, **J.A. Fisher**, D.L. Osborn, S.H. Kable, C.S. Hansen. Fluoroform (CHF3) production from CF3CHO photolysis and implications for the decomposition of hydrofluoroolefins in the atmosphere. *Journal of the American Chemical Society*, 147(1), 33-38, doi: 10.1021/jacs.4c11776, 2025. [[read](https://pubs.acs.org/doi/10.1021/jacs.4c11776)]
+
+1.	**Page, N.C.**, **J.A. Fisher**, S.R. Wilson, R. Schofield, R.G. Ryan, S. Gribben, A.R. Klekociuk, G.C. Edwards, A. Morrison. Environmental drivers of tropospheric bromine and mercury variability in coastal Antarctica. *Atmospheric Environment*, 342, 120918, doi: 10.1016/j.atmosenv.2024.120918, 2025. [[read](https://doi.org/10.1016/j.atmosenv.2024.120918)]
 
 2.	Harpur, P., B. Szucs, **J. Fisher**, N.A. Pachana. Insights from the chancellery: considerations for a university lead on equity, diversity, and inclusion. *Higher Education Research and Development*, 1–15, doi: 10.1080/07294360.2024.2399078, 2024.[[read](https://www.tandfonline.com/doi/full/10.1080/07294360.2024.2399078)]
 
