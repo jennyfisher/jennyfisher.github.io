@@ -9,11 +9,14 @@ Group members listed in **bold**.
 
 ## In Review
 
-1. **MacFarlane, S.**, **J.A. Fisher**, L. Xu, P.O. Wennberg, J.D. Crounse, K. Ball, S. Zhai, K. Bates, Y. Kim, Q. Zhang, D. Blake. Sources, Sinks and Oxidation Pathways of Phenolic Compounds in South Korea Constrained Using KORUS-AQ Airborne Observations. In review for *Journal of Geophysical Research - Atmospheres*.
-
+None at present
 
 ## Refereed
 
+1. **MacFarlane, S.**, **J.A. Fisher**, L. Xu, P.O. Wennberg, J.D. Crounse, K. Ball, S. Zhai, K. Bates, Y. Kim, Q. Zhang, D. Blake. Sources, Sinks and Oxidation Pathways of Phenolic Compounds in South Korea Constrained Using KORUS-AQ Airborne Observations. *Journal of Geophysical Research - Atmospheres*, accepted June 2025.
+
+2.	**Königseder, S.K.**, T.T. Barrows, **J.A. Fisher**, J.P. Evans, Y. Kim, C. McColl. Performance of a 179-year high-resolution climate simulation of southern Alaska. *Theoretical and Applied Climatology*, 156, 391, doi: 10.1007/s00704-025-05612-x, 2025. [[read](https://link.springer.com/article/10.1007/s00704-025-05612-x)]
+   
 1. Thomson, J.D., J.S. Campbell, E.B. Edwards, C. Medcraft, K. Nauta, **M.P. Pérez-Peña**, **J.A. Fisher**, D.L. Osborn, S.H. Kable, C.S. Hansen. Fluoroform (CHF3) production from CF3CHO photolysis and implications for the decomposition of hydrofluoroolefins in the atmosphere. *Journal of the American Chemical Society*, 147(1), 33-38, doi: 10.1021/jacs.4c11776, 2025. [[read](https://pubs.acs.org/doi/10.1021/jacs.4c11776)]
 
 1.	**Page, N.C.**, **J.A. Fisher**, S.R. Wilson, R. Schofield, R.G. Ryan, S. Gribben, A.R. Klekociuk, G.C. Edwards, A. Morrison. Environmental drivers of tropospheric bromine and mercury variability in coastal Antarctica. *Atmospheric Environment*, 342, 120918, doi: 10.1016/j.atmosenv.2024.120918, 2025. [[read](https://doi.org/10.1016/j.atmosenv.2024.120918)]
