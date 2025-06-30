@@ -3,10 +3,6 @@ layout: page
 title: People
 ---
 
-## Current Postdocs
-
-**Paolo Sebastianelli**, Postdoc 2023-2025
-
 ## Current Students
 
 **Beth Killen**, PhD 2024-<br/>
@@ -21,6 +17,7 @@ title: People
 
 ## Alumni
 
+**Paolo Sebastianelli**, Postdoc 2023-2025<br/>
 **Dominique Bally Kpokro**, PhD 2021-2025<br/>
 **Sandra Koenigseder**, PhD 2020-2024, now at CommBank<br/>
 **Maria Paula Perez-Peña**, PhD (UNSW) 2019-2023, now environmental consultant<br/>
