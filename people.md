@@ -17,14 +17,11 @@ title: People
 
 **Stephen MacFarlane**, PhD 2022-<br/>
        Co-supervisors: Scott Kable (UNSW), Clare Murphy
-
-**Dominique Bally Kpokro**, PhD 2021-<br/>
-       Joint primary supervisor: Gavin Hilson (University of Surrey, UK)
-       Co-Supervisors: Larissa Schneider (ANU), Clare Murphy
               
 
 ## Alumni
 
+**Dominique Bally Kpokro**, PhD 2021-2025<br/>
 **Sandra Koenigseder**, PhD 2020-2024, now at CommBank<br/>
 **Maria Paula Perez-Peña**, PhD (UNSW) 2019-2023, now environmental consultant<br/>
 **Jhonathan Ramirez Gamboa**, PhD 2019-2023, now at CSIRO<br/>
