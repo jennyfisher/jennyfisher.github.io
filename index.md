@@ -25,6 +25,6 @@ My research centres on investigating the sources, chemical evolution, and transp
 I teach earth systems science and introductory programming to undergraduate students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
 
 ### News
+- Proud supervisor month! Former student Dr Sandra Königseder's 1st author paper was [published](https://link.springer.com/article/10.1007/s00704-025-05612-x) and current PhD student Stephen MacFarlane's 1st author paper was accepted!
 - As of January 2025, I have started a new position as Associate Dean Learning and Teaching in the College of Science and Engineering at James Cook University (JCU).
-- New paper published, led by former Master's student Neil Page. The paper delves into the environmental drivers of bromine monoxide and mercury variability in coastal East Antarctica. Read at [*Atmospheric Environment*](https://doi.org/10.1016/j.atmosenv.2024.120918).
 - From January to December 2024, I spent my sabbatical as an Australian Science Policy Fellow, hosted by the Australian Government Department of Industry, Science and Resources.
