@@ -13,7 +13,7 @@ None at present
 
 ## Refereed
 
-1. **MacFarlane, S.**, **J.A. Fisher**, L. Xu, P.O. Wennberg, J.D. Crounse, K. Ball, S. Zhai, K. Bates, Y. Kim, Q. Zhang, D. Blake. Sources, Sinks and Oxidation Pathways of Phenolic Compounds in South Korea Constrained Using KORUS-AQ Airborne Observations. *Journal of Geophysical Research - Atmospheres*, accepted June 2025.
+1. **MacFarlane, S.**, **J.A. Fisher**, L. Xu, P.O. Wennberg, J.D. Crounse, K. Ball, S. Zhai, K. Bates, Y. Kim, Q. Zhang, D. Blake. Sources, Sinks and Oxidation Pathways of Phenolic Compounds in South Korea Constrained Using KORUS-AQ Airborne Observations. *Journal of Geophysical Research - Atmospheres*, 130(13), e2404JD043110, doi: 10.1029/2024JD043110, 2025. [[read](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD043110)]
 
 2.	**Königseder, S.K.**, T.T. Barrows, **J.A. Fisher**, J.P. Evans, Y. Kim, C. McColl. Performance of a 179-year high-resolution climate simulation of southern Alaska. *Theoretical and Applied Climatology*, 156, 391, doi: 10.1007/s00704-025-05612-x, 2025. [[read](https://link.springer.com/article/10.1007/s00704-025-05612-x)]
    
