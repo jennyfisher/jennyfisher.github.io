@@ -9,7 +9,10 @@ Group members listed in **bold**.
 
 ## In Review
 
-None at present
+1.	Roy, E.M., A. Feiberg, J. Chen, T. Dlamini, **J.A. Fisher**, J. Powell, A. Domergue, O. Magand, M.F. Andrade-Flores, J. Harnwell, J. Ward, N.E. Selin. Variability-based constraints on regional gaseous elemental mercury fluxes. In review for *Journal of Geophysical Research – Atmospheres*, 2026.
+
+2.	**Killen, B.**, **J.A. Fisher**, C.S. Hansen, P.B. Krummel, M.K. Vollmer, S.H. Kable. Atmospheric fates and global warming potential of HFO-1234ze(E) and its degradation product trifluoroacetaldehyde (CF3CHO). In review for *Environmental Science: Atmospheres*, 2026.
+
 
 ## Refereed
 
@@ -17,6 +20,8 @@ None at present
 
 2.	**Königseder, S.K.**, T.T. Barrows, **J.A. Fisher**, J.P. Evans, Y. Kim, C. McColl. Performance of a 179-year high-resolution climate simulation of southern Alaska. *Theoretical and Applied Climatology*, 156, 391, doi: 10.1007/s00704-025-05612-x, 2025. [[read](https://link.springer.com/article/10.1007/s00704-025-05612-x)]
    
+3.	**Pérez-Peña, M.P.**, **J.A. Fisher**, C. Hansen, S.H. Kable. Reply to the ‘Comment on “Assessing the atmospheric fate of trifluoroacetaldehyde (CF3CHO) and its potential as a new source of fluoroform (HFC-23) using the AtChem2 box model” by O. J. Nielsen, M. P. Sulbaek Andersen and J. Franklin, Environ. Sci.: Atmos., 2025, 5, DOI: 10.1039/D4EA00123K, Environmental Science: Atmospheres, doi: 10.1039/d4ea00154k, 5, 535-538, 2025.
+
 1. Thomson, J.D., J.S. Campbell, E.B. Edwards, C. Medcraft, K. Nauta, **M.P. Pérez-Peña**, **J.A. Fisher**, D.L. Osborn, S.H. Kable, C.S. Hansen. Fluoroform (CHF3) production from CF3CHO photolysis and implications for the decomposition of hydrofluoroolefins in the atmosphere. *Journal of the American Chemical Society*, 147(1), 33-38, doi: 10.1021/jacs.4c11776, 2025. [[read](https://pubs.acs.org/doi/10.1021/jacs.4c11776)]
 
 1.	**Page, N.C.**, **J.A. Fisher**, S.R. Wilson, R. Schofield, R.G. Ryan, S. Gribben, A.R. Klekociuk, G.C. Edwards, A. Morrison. Environmental drivers of tropospheric bromine and mercury variability in coastal Antarctica. *Atmospheric Environment*, 342, 120918, doi: 10.1016/j.atmosenv.2024.120918, 2025. [[read](https://doi.org/10.1016/j.atmosenv.2024.120918)]
