@@ -15,7 +15,7 @@ Group members listed in **bold**.
 
 ## Refereed
 
-1.	**Killen, B.**, **J.A. Fisher**, C.S. Hansen, P.B. Krummel, M.K. Vollmer, S.H. Kable. Atmospheric fates and global warming potential of HFO-1234ze(E) and its degradation product trifluoroacetaldehyde (CF3CHO). *Environmental Science: Atmospheres*, doi: 10.1039/D6EA00034G, 2026. [[read](https://pubs.rsc.org/en/content/articlelanding/2026/ea/d6ea00034g)]
+1.	**Killen, B.**, **J.A. Fisher**, C.S. Hansen, P.B. Krummel, M.K. Vollmer, S.H. Kable. Atmospheric fates and global warming potential of HFO-1234ze(E) and its degradation product trifluoroacetaldehyde (CF3CHO). *Environmental Science: Atmospheres*, 6, 913, doi: 10.1039/D6EA00034G, 2026. [[read](https://pubs.rsc.org/en/content/articlelanding/2026/ea/d6ea00034g)]
 
 1. **MacFarlane, S.**, **J.A. Fisher**, L. Xu, P.O. Wennberg, J.D. Crounse, K. Ball, S. Zhai, K. Bates, Y. Kim, Q. Zhang, D. Blake. Sources, Sinks and Oxidation Pathways of Phenolic Compounds in South Korea Constrained Using KORUS-AQ Airborne Observations. *Journal of Geophysical Research - Atmospheres*, 130(13), e2404JD043110, doi: 10.1029/2024JD043110, 2025. [[read](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD043110)]
 
