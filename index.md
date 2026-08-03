@@ -25,6 +25,7 @@ My research centres on investigating the sources, chemical evolution, and transp
 I teach earth systems science and introductory modelling skills to undergraduate science students. For more details, including my teaching philosophy, please see my [teaching portfolio](https://sites.google.com/view/jfisher-teaching-portfolio/home) from UOW (a few years old now). To access the Jupyter notebooks I use for teaching Python, please see my [teaching Github page](https://jennyfisher.github.io/computing-modelling-earthsci/).
 
 ### News
+- PhD student Beth Killen received the outstanding student oral presentation in the Grand Challenge sessions at the RACI National Congress 2026. Congrats, Beth!
 - Congratulations to Dr Stephen MacFarlane, who was officially awarded his PhD!
 - PhD student Beth Killen's new 1st author paper modelling the chemistry of HFO-1234ze and its implications was [published](https://pubs.rsc.org/en/content/articlelanding/2026/ea/d6ea00034g) in *Environmental Science: Atmospheres*!
 - Stephen MacFarlane submitted his PhD thesis and Bakhat Rawat submitted his MPhil thesis. Congratulations, Stephen and Bakhat!
